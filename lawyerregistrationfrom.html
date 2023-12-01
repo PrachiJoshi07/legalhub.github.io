@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="initial-scale=1, width=device-width" />
+
+		<link rel="stylesheet" href="./lawyerregistrationform.css" />
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Mogra:wght@400&display=swap"
+		/>
+		<style>
+			.registration-form {
+				margin: auto;
+				margin-top: 160px;
+				width: 50%;
+				background-color: var(--color-saddlebrown);
+				padding: 2rem 5rem 2rem 4rem;
+			}
+			.registration-form h1 {
+				font-size: 40px;
+				font-weight: normal;
+				text-align: center;
+				margin: 0;
+				padding-bottom: 30px;
+			}
+			.registration-form input {
+				width: 100%;
+				height: 35px;
+				border: none;
+				border-radius: 5px;
+				margin-bottom: 15px;
+				padding-left: 10px;
+				padding-right: 0;
+			}
+			.submit_button {
+				margin-top: 1rem;
+				width: 100%;
+				height: 50px;
+				font-size: 30px;
+				border: 1px solid var(--color-gray);
+				background-color: var(--color-gray);
+				color: white;
+				cursor: pointer;
+				font-family: var(--font-mogra);
+			}
+		</style>
+	</head>
+	<body>
+		<form
+			class="lawyer-registration"
+			id="lawyer_registration_form"
+			action="./lawyerregistration.php"
+			method="post"
+			enctype="multipart/form-data"
+		>
+			<!-- <div class="lawyer-registration-child"></div> -->
+			<div class="legal-resources-hub">LEGAL RESOURCES HUB</div>
+			<div class="header-rectangle"></div>
+			<div class="glossary">Glossary</div>
+			<div class="about-us">About us</div>
+			<div class="login">Login</div>
+			<div class="home">Home</div>
+
+			<a class="glossary" href="glossary.html"></a>
+			<a class="about-us" href="aboutus.html"></a>
+			<a class="login" href="userlogin.html"></a>
+			<a class="home" href="index.html"></a>
+
+			<img class="image-46-icon" alt="" src="./images/hammer.jpeg" />
+
+			<!-- <input
+				class="lawyer-registration-practice-a"
+				name="organisation"
+				placeholder="Organisation"
+				type="text"
+			/>
+
+			<input
+				class="lawyer-registration-create-pas"
+				name="create_password"
+				placeholder="Create Password"
+				type="password"
+			/>
+
+			<button class="lawyer-registration-registrati"></button>
+			<input
+				class="lawyer-registration-confirmpas"
+				name="confirm_password"
+				placeholder="Confirm Passowrd"
+				type="password"
+			/>
+
+			<input
+				class="lawyer-registration-username"
+				name="full_name"
+				placeholder="Full name"
+				type="text"
+			/>
+
+			<input
+				class="lawyer-registration-address"
+				name="Location"
+				placeholder="Location"
+				type="text"
+			/>
+
+			<input
+				class="lawyer-registration-bar-associ"
+				name="practice_areas"
+				placeholder="Practice Areas"
+				type="text"
+			/>
+
+			<input
+				class="lawyer-registration-year-of-gr"
+				name="phone_number"
+				placeholder="Phone number"
+				type="text"
+			/>
+
+			<input
+				class="lawyer-registration-phone"
+				name="experience_in_areas"
+				placeholder="Experience in years"
+				type="text"
+			/>
+
+			<input
+				class="lawyer-registration-box-email"
+				name="email"
+				placeholder="Email"
+				type="text"
+			/>
+
+			<div class="registor">
+				<p class="registor1">Registor</p>
+			</div>
+			<div class="lawyer-registration-form">Lawyer registration form</div> -->
+			<div class="registration-form">
+				<h1>Lawyer registration form</h1>
+
+				<div class="profile-image-div">
+					<label for="profile-image">Profile Image</label>
+					<input
+						type="file"
+						name="profile-image"
+						class="profile-image"
+						style="padding: 0"
+						required
+					/>
+				</div>
+
+				<input name="full_name" placeholder="Full name" type="text" required />
+				<input name="email" placeholder="Email" type="text" required />
+				<input name="Location" placeholder="Location" type="text" required />
+				<input
+					name="phone_number"
+					placeholder="Phone number"
+					type="text"
+					style="width: 47%"
+					required
+				/>
+				<input
+					placeholder="Experience in years"
+					name="experience_in_areas"
+					type="text"
+					style="width: 47%; margin-left: 1.5%"
+					required
+				/>
+				<input
+					name="practice_areas"
+					placeholder="Practice Areas"
+					type="text"
+					required
+				/>
+				<input
+					name="organisation"
+					placeholder="Organisation"
+					type="text"
+					required
+				/>
+
+				<input
+					name="create_password"
+					placeholder="Create Password"
+					id="create_password"
+					type="password"
+					required
+				/>
+
+				<input
+					name="confirm_password"
+					id="confirm_password"
+					placeholder="Confirm Passowrd"
+					type="password"
+					required
+				/>
+				<button onclick="submit();" class="submit_button">Register</button>
+			</div>
+		</form>
+	</body>
+</html>
+<script>
+	function submit() {
+		document.getElementById("lawyer_registration_form").submit();
+	}
+</script>

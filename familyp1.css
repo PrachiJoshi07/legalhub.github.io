@@ -1,0 +1,365 @@
+.faimly-law,
+.parsi-law-the {
+  position: absolute;
+  text-align: justify;
+  display: inline-block;
+}
+.faimly-law {
+  top: 221px;
+  left: 236px;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 0.95);
+  width: 1045px;
+  height: 64px;
+}
+.parsi-law-the {
+  top: -356px;
+  left: 80px;
+  font-size: 11px;
+  font-family: var(--font-abril-fatface);
+  width: 1598px;
+  height: 101px;
+}
+.family-law-in {
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.family-law-in-india-is-a-compl {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.the-dissolution-of-muslim-marr {
+  margin-bottom: 0;
+}
+.the-hindu-marriage-act-1955-t {
+  margin: 0;
+  padding-left: var(--padding-2xl);
+}
+.divorce1 {
+  text-decoration: underline;
+}
+.divorce {
+  color: inherit;
+}
+.child-support-custody {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mplus-1p-bold);
+}
+.family-law-in-container {
+  position: absolute;
+  top: 279px;
+  left: 241px;
+  color: inherit;
+  text-align: justify;
+  display: inline-block;
+  width: 1004px;
+  height: 2391px;
+  font-family: var(--font-microsoft-sans-serif);
+}
+.image-1-icon,
+.image-2-icon {
+  position: absolute;
+  top: 978px;
+  left: 420px;
+  width: 558px;
+  height: 304px;
+  object-fit: cover;
+}
+.image-2-icon {
+  top: 1564px;
+  left: 434px;
+  width: 456px;
+  height: 241px;
+}
+.faimly-p-1-child {
+  border: 4px solid var(--color-saddlebrown);
+  background-color: var(--color-gainsboro);
+  top: 57px;
+  left: 52px;
+  box-sizing: border-box;
+  width: 214px;
+  height: 57px;
+}
+.faimly-p-1-child,
+.faimly-p-1-inner,
+.faimly-p-1-item {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.faimly-p-1-item {
+  border: 4px solid var(--color-saddlebrown);
+  background-color: var(--color-gainsboro);
+  top: 57px;
+  left: 274px;
+  box-sizing: border-box;
+  width: 214px;
+  height: 57px;
+}
+.faimly-p-1-inner {
+  left: 496px;
+}
+.faimly-p-1-child1,
+.faimly-p-1-inner,
+.rectangle-button {
+  border: 4px solid var(--color-saddlebrown);
+  background-color: var(--color-gainsboro);
+  top: 57px;
+  box-sizing: border-box;
+  width: 214px;
+  height: 57px;
+}
+.rectangle-button {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+  left: 721px;
+}
+.faimly-p-1-child1 {
+  left: 946px;
+}
+.faimly-p-1-child1,
+.faimly-p-1-child2,
+.hindu-law {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.faimly-p-1-child2 {
+  border: 4px solid var(--color-saddlebrown);
+  background-color: var(--color-gainsboro);
+  top: 57px;
+  left: 1171px;
+  box-sizing: border-box;
+  width: 214px;
+  height: 57px;
+}
+.hindu-law {
+  border: 0;
+  background-color: transparent;
+  top: 81px;
+  left: 116px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-mogra);
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+  width: 92px;
+  height: 33px;
+}
+.hindu-marriage-act,
+.the-hindu-adoption {
+  position: absolute;
+  top: 74px;
+  left: 302px;
+  display: inline-block;
+  width: 158px;
+  height: 47px;
+}
+.the-hindu-adoption {
+  top: 68px;
+  left: 503px;
+  width: 200px;
+  height: 35px;
+}
+.muslim-law,
+.muslim-personal-law,
+.parsi-law {
+  position: absolute;
+  top: 75px;
+  left: 754px;
+  display: inline-block;
+  width: 130px;
+  height: 18px;
+}
+.muslim-personal-law,
+.parsi-law {
+  top: 68px;
+  left: 972px;
+  width: 163px;
+  height: 36px;
+}
+.parsi-law {
+  top: 149px;
+  left: 101px;
+  width: 107px;
+  height: 24px;
+}
+.the-parsi-marriage,
+.the-parsi-sucession {
+  position: absolute;
+  top: 139px;
+  left: 496px;
+  display: inline-block;
+  width: 203px;
+  height: 70px;
+}
+.the-parsi-sucession {
+  top: 137px;
+  left: 293px;
+  width: 167px;
+  height: 41px;
+}
+.christian-law,
+.christian-marriage-act {
+  position: absolute;
+  top: 147px;
+  left: 721px;
+  display: inline-block;
+  width: 190px;
+  height: 33px;
+}
+.christian-marriage-act {
+  top: 139px;
+  left: 959px;
+  width: 194px;
+  height: 26px;
+}
+.christian-sucession-act,
+.muslim-personal-law1,
+.text {
+  position: absolute;
+  top: 137px;
+  left: 1220px;
+  display: inline-block;
+  width: 141px;
+  height: 33px;
+}
+.muslim-personal-law1,
+.text {
+  top: 68px;
+  left: 1196px;
+  width: 162px;
+  height: 66px;
+}
+.text {
+  top: -117px;
+  left: 584px;
+  font-size: var(--font-size-lg);
+  width: 154px;
+  height: 192px;
+}
+.faimly-p-1-child3,
+.faimly-p-1-child4,
+.faimly-p-1-child5,
+.faimly-p-1-child6,
+.faimly-p-1-child7,
+.faimly-p-1-child8 {
+  cursor: pointer;
+  border: 4px solid var(--color-saddlebrown);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 126px;
+  left: 55px;
+  box-sizing: border-box;
+  width: 214px;
+  height: 57px;
+}
+.faimly-p-1-child4,
+.faimly-p-1-child5,
+.faimly-p-1-child6,
+.faimly-p-1-child7,
+.faimly-p-1-child8 {
+  left: 277px;
+}
+.faimly-p-1-child5,
+.faimly-p-1-child6,
+.faimly-p-1-child7,
+.faimly-p-1-child8 {
+  left: 499px;
+}
+.faimly-p-1-child6,
+.faimly-p-1-child7,
+.faimly-p-1-child8 {
+  left: 724px;
+}
+.faimly-p-1-child7,
+.faimly-p-1-child8 {
+  left: 949px;
+}
+.faimly-p-1-child8 {
+  left: 1174px;
+}
+.text1 {
+  position: absolute;
+  top: -48px;
+  left: 587px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 154px;
+  height: 192px;
+}
+.estate-planning-may-be-part-of {
+  margin: 0;
+}
+.other-family-law-container {
+  position: absolute;
+  top: 2282px;
+  left: 241px;
+  color: inherit;
+  text-align: justify;
+  display: inline-block;
+  width: 1008px;
+  height: 388px;
+  font-family: var(--font-microsoft-sans-serif);
+}
+.faimly-p-1 {
+  position: relative;
+  background-color: #fff;
+  border: 30px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 100%;
+  height: 2725px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+  --font-mplus-1p-bold: "Mplus 1p Bold";
+  --font-mogra: Mogra;
+  --font-abril-fatface: "Abril Fatface";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-saddlebrown: #4c1c01;
+  --color-black: #000;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+
+  /* Paddings */
+  --padding-2xl: 21px;
+}
+a {
+  text-decoration: none; /* Remove underline */
+  color: rgb(0, 0, 0); /* Set text color to black */
+}
+
+/* If you want to target specific links, you can use their classes */
+.hindu-law,
+.hindu-marriage-act,
+.the-hindu-adoption,
+.muslim-law,
+.muslim-personal-law,
+.muslim-personal-law1,
+.parsi-law,
+.the-parsi-marriage,
+.the-parsi-sucession,
+.christian-law,
+.christian-marriage-act,
+.christian-sucession-act {
+  text-decoration: none; /* Remove underline for specific links */
+  color: rgb(0, 0, 0); /* Set text color to black for specific links */
+}

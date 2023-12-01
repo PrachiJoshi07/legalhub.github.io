@@ -1,0 +1,994 @@
+.legal-resources-hub {
+  position: absolute;
+  top: 36px;
+  left: 170px;
+  font-size: 40px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.image-31-icon {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 1440px;
+  height: 607px;
+  object-fit: cover;
+}
+.bridging-the-gap,
+.discover-a-variety {
+  position: absolute;
+  left: 119px;
+  display: inline-block;
+}
+.discover-a-variety {
+  top: 398px;
+  font-size: 23px;
+  font-family: var(--font-microsoft-sans-serif);
+  width: 683px;
+  height: 117px;
+}
+.bridging-the-gap {
+  top: 237px;
+  font-size: var(--font-size-31xl);
+  width: 651px;
+  height: 208px;
+}
+.header-box {
+  position: absolute;
+  top: 30px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: var(--color-saddlebrown);
+  width: 723px;
+  height: 69px;
+}
+.glossary {
+  text-decoration: none;
+  left: 1113px;
+  color: inherit;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 48px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+}
+.about-us {
+  text-decoration: none;
+  left: 924px;
+  color: inherit;
+  width: 136px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  text-decoration: none;
+  top: 47px;
+  left: 786px;
+  color: inherit;
+  width: 85px;
+  height: 28px;
+}
+.lawyer-background-box {
+  position: absolute;
+  top: 1137px;
+  left: 0;
+  background-color: var(--color-saddlebrown);
+  width: 1440px;
+  height: 548px;
+}
+.chat-with-lawyers,
+.connecting-you-to,
+.legal-chatboat,
+.share-experiences {
+  text-decoration: none;
+  position: absolute;
+  top: 912px;
+  left: 49px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 377px;
+  height: 174px;
+}
+.chat-with-lawyers,
+.connecting-you-to,
+.share-experiences {
+  top: 759px;
+  left: 287px;
+  font-size: var(--font-size-31xl);
+  width: 970px;
+  height: 82px;
+}
+.chat-with-lawyers,
+.share-experiences {
+  top: 912px;
+  left: 535px;
+  font-size: var(--font-size-11xl);
+  width: 438px;
+  height: 102px;
+}
+.chat-with-lawyers {
+  left: 1009px;
+  width: 328px;
+  height: 114px;
+}
+.engage-with-legal,
+.share-your-legal,
+.your-virtual-legal {
+  position: absolute;
+  top: 957px;
+  left: 49px;
+  font-family: var(--font-microsoft-sans-serif);
+  color: var(--color-saddlebrown);
+  display: inline-block;
+  width: 330px;
+  height: 91px;
+}
+.engage-with-legal,
+.share-your-legal {
+  left: 535px;
+  width: 366px;
+  height: 119px;
+}
+.engage-with-legal {
+  left: 1009px;
+  width: 382px;
+  height: 113px;
+}
+.blank-line {
+  margin: 0;
+}
+.advocate-mba-llb-container {
+  top: 1197px;
+  font-size: 25px;
+  width: 687px;
+  height: 190px;
+}
+.a-highly-experienced,
+.advocate-mba-llb-container,
+.dr-harsh-pathak {
+  position: absolute;
+  left: 694px;
+  display: inline-block;
+}
+.dr-harsh-pathak {
+  top: 1177px;
+  font-size: var(--font-size-16xl);
+  width: 366px;
+}
+.a-highly-experienced {
+  top: 1411px;
+  font-size: 24px;
+  font-family: var(--font-microsoft-sans-serif);
+  text-align: justify;
+  width: 681px;
+  height: 401px;
+}
+.laws-encyclopedia {
+  position: absolute;
+  top: 1774px;
+  left: 476px;
+  font-size: var(--font-size-36xl);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 802px;
+  height: 83px;
+}
+.landing-page-child {
+  position: absolute;
+  top: 1971px;
+  left: 131px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 386px;
+  height: 320px;
+}
+.faimly-law,
+.it-deals-with {
+  position: absolute;
+  font-family: var(--font-outfit);
+  color: var(--color-saddlebrown);
+  display: inline-block;
+}
+.faimly-law {
+  top: 2064px;
+  left: 188px;
+  font-size: var(--font-size-26xl);
+  width: 381px;
+  height: 85px;
+}
+.it-deals-with {
+  top: 2136px;
+  left: 139px;
+  text-align: center;
+  width: 362px;
+  height: 112px;
+}
+.image-39-icon {
+  position: absolute;
+  top: 1986px;
+  left: 254px;
+  width: 90px;
+  height: 78px;
+  object-fit: cover;
+}
+.faimly-law1,
+.your-ultimate-legal {
+  position: absolute;
+  font-family: var(--font-outfit);
+  display: inline-block;
+}
+.your-ultimate-legal {
+  top: 1857px;
+  left: 167px;
+  color: var(--color-saddlebrown);
+  text-align: center;
+  width: 1145px;
+  height: 164px;
+}
+.faimly-law1 {
+  top: 2064px;
+  left: 188px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gray-100);
+  width: 381px;
+  height: 85px;
+}
+.criminal-law-box,
+.landing-page-item {
+  position: absolute;
+  top: 1971px;
+  left: 517px;
+  border: 1px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 386px;
+  height: 320px;
+}
+.landing-page-item {
+  background-color: var(--color-white);
+}
+.criminal-law-box {
+  background-color: rgba(172, 172, 172, 0.2);
+}
+.criminal-law,
+.it-involves-charges {
+  position: absolute;
+  font-family: var(--font-outfit);
+  display: inline-block;
+}
+.criminal-law {
+  top: 2064px;
+  left: 574px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gray-100);
+  width: 381px;
+  height: 85px;
+}
+.it-involves-charges {
+  top: 2136px;
+  left: 525px;
+  color: var(--color-saddlebrown);
+  text-align: center;
+  width: 362px;
+  height: 112px;
+}
+.landing-page-inner {
+  position: absolute;
+  top: 1971px;
+  left: 903px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 386px;
+  height: 320px;
+}
+.civil-law,
+.it-is-concerned {
+  position: absolute;
+  font-family: var(--font-outfit);
+  display: inline-block;
+}
+.civil-law {
+  top: 2064px;
+  left: 991px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gray-100);
+  width: 431px;
+  height: 92px;
+}
+.it-is-concerned {
+  top: 2136px;
+  left: 916px;
+  color: var(--color-saddlebrown);
+  text-align: center;
+  width: 362px;
+  height: 112px;
+}
+.civil-img-icon,
+.criminal-img-icon {
+  position: absolute;
+  top: 1982px;
+  left: 1044px;
+  width: 87px;
+  height: 77px;
+  object-fit: cover;
+}
+.criminal-img-icon {
+  left: 658px;
+  width: 75px;
+}
+.recent-press-box {
+  position: absolute;
+  top: 2368px;
+  left: 0;
+  background-color: var(--color-saddlebrown);
+  width: 1440px;
+  height: 726px;
+}
+.recent-press-explore-box {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-gray-200);
+  position: absolute;
+  top: 3021px;
+  left: 650px;
+  box-sizing: border-box;
+  width: 135px;
+  height: 46px;
+}
+.recent-press-release {
+  position: absolute;
+  top: 2420px;
+  left: 419px;
+  font-size: var(--font-size-36xl);
+  display: inline-block;
+  width: 761px;
+  height: 117px;
+}
+.stay-informed-about {
+  position: absolute;
+  top: 2492px;
+  left: 241px;
+  font-family: var(--font-outfit);
+  text-align: center;
+  display: inline-block;
+  width: 926px;
+  height: 134px;
+}
+.recent-p-b-1 {
+  position: absolute;
+  top: 2584px;
+  left: 94px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 107px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12,
+.recent-p-b-2,
+.recent-p-b-3,
+.recent-p-b-4,
+.recent-p-b-5,
+.recent-p-b-6,
+.recent-p-b-7,
+.recent-p-b-8,
+.recent-p-b-9 {
+  position: absolute;
+  top: 2584px;
+  left: 1039px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 107px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12,
+.recent-p-b-2,
+.recent-p-b-3,
+.recent-p-b-5,
+.recent-p-b-6,
+.recent-p-b-7,
+.recent-p-b-8,
+.recent-p-b-9 {
+  left: 409px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12,
+.recent-p-b-3,
+.recent-p-b-5,
+.recent-p-b-6,
+.recent-p-b-7,
+.recent-p-b-8,
+.recent-p-b-9 {
+  left: 724px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12,
+.recent-p-b-5,
+.recent-p-b-6,
+.recent-p-b-7,
+.recent-p-b-8,
+.recent-p-b-9 {
+  top: 2735px;
+  left: 94px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12,
+.recent-p-b-6,
+.recent-p-b-7,
+.recent-p-b-8,
+.recent-p-b-9 {
+  left: 1039px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12,
+.recent-p-b-6,
+.recent-p-b-7,
+.recent-p-b-9 {
+  left: 409px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12,
+.recent-p-b-7,
+.recent-p-b-9 {
+  left: 724px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12,
+.recent-p-b-9 {
+  top: 2886px;
+  left: 94px;
+}
+.recent-p-b-10,
+.recent-p-b-11,
+.recent-p-b-12 {
+  left: 1039px;
+}
+.recent-p-b-10,
+.recent-p-b-11 {
+  left: 409px;
+}
+.recent-p-b-11 {
+  left: 724px;
+}
+.the-biological-diversity {
+  position: absolute;
+  top: 2612px;
+  left: calc(50% - 633px);
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 310px;
+  height: 96px;
+  text-decoration: none;
+}
+.the-forest-conservation {
+  top: 2612px;
+  left: 394px;
+  width: 324px;
+  text-decoration: none;
+}
+.the-coastal-aquaculture,
+.the-competition-amendment,
+.the-forest-conservation,
+.the-multi-state {
+  position: absolute;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+}
+.the-multi-state {
+  top: 2602px;
+  left: 740px;
+  width: 261px;
+  text-decoration: none;
+}
+.the-coastal-aquaculture,
+.the-competition-amendment {
+  text-decoration: underline;
+}
+.the-competition-amendment {
+  top: 2614px;
+  left: 1071px;
+  width: 232px;
+  height: 46px;
+}
+.the-coastal-aquaculture {
+  top: 2757px;
+  left: 112px;
+  width: 268px;
+}
+.the-anusandhan-national,
+.the-national-nursing {
+  top: 2752px;
+  text-decoration: underline;
+  color: inherit;
+}
+.the-national-nursing {
+  position: absolute;
+  left: 432px;
+  text-align: center;
+  display: inline-block;
+  width: 246px;
+}
+.the-anusandhan-national {
+  left: 746px;
+  width: 252px;
+}
+.the-anusandhan-national,
+.the-constitution-scheduled,
+.the-jan-vishwas {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.the-constitution-scheduled {
+  top: 2752px;
+  left: 1057px;
+  text-decoration: underline;
+  color: inherit;
+  width: 258px;
+}
+.the-jan-vishwas {
+  top: 2904px;
+  left: 112px;
+  color: inherit;
+  width: 252px;
+}
+.the-digital-personal,
+.the-indian-institutes,
+.the-registration-of {
+  position: absolute;
+  top: 2916px;
+  color: inherit;
+  left: 420px;
+  text-align: center;
+  display: inline-block;
+  width: 269px;
+}
+.the-indian-institutes,
+.the-registration-of {
+  top: 2908px;
+  left: 730px;
+  text-decoration: underline;
+  color: inherit;
+  width: 283px;
+}
+.the-indian-institutes {
+  top: 2904px;
+  left: 1059px;
+  width: 253px;
+}
+.law-hammer-image {
+  position: absolute;
+  top: 4px;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.front-page-lawyer-image,
+.harsh-pathak {
+  position: absolute;
+  top: 145px;
+  left: 894px;
+  width: 531px;
+  height: 553px;
+  object-fit: cover;
+}
+.harsh-pathak {
+  top: 1144px;
+  left: 64px;
+  width: 559px;
+  height: 530px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 3186px;
+  left: -5px;
+  background-color: var(--color-saddlebrown);
+  border: 3px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1445px;
+  height: 238px;
+  opacity: 0.99;
+}
+.discover-a-rich {
+  position: absolute;
+  top: 3274px;
+  left: 168px;
+  font-family: var(--font-outfit);
+  text-align: justify;
+  display: inline-block;
+  width: 1328px;
+  height: 95px;
+}
+.legal-resources-hub1 {
+  position: absolute;
+  top: 3224px;
+  left: 530px;
+  font-size: var(--font-size-16xl);
+  display: inline-block;
+  width: 380px;
+  height: 70px;
+}
+.information67gmailcom,
+.legal-resources-hub2,
+.privacy-policy {
+  position: absolute;
+  top: 3393px;
+  left: 794px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-outfit);
+  display: inline-block;
+  width: 453px;
+  height: 130px;
+}
+.legal-resources-hub2,
+.privacy-policy {
+  left: 292px;
+  width: 214px;
+  height: 44px;
+}
+.privacy-policy {
+  left: 603px;
+  width: 175px;
+  height: 24px;
+}
+.explore,
+.explore1 {
+  top: 2240px;
+  color: var(--color-gray-100);
+}
+.explore {
+  text-decoration: none;
+  position: absolute;
+  left: 380px;
+  font-size: var(--font-size-10xl);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 170px;
+  height: 42px;
+}
+.explore1 {
+  left: 770px;
+}
+.explore1,
+.explore2,
+.explore3 {
+  text-decoration: none;
+  position: absolute;
+  font-size: var(--font-size-10xl);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 170px;
+  height: 42px;
+}
+.explore2 {
+  top: 3025px;
+  left: 669px;
+  color: inherit;
+}
+.explore3 {
+  top: 2240px;
+  left: 1160px;
+  color: var(--color-gray-100);
+}
+.civil-explore-box,
+.faimly-explore-box {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-100);
+  padding: 0;
+  top: 2236px;
+  width: 135px;
+  height: 46px;
+}
+.faimly-explore-box {
+  background-color: var(--color-gray-200);
+  position: absolute;
+  left: 365px;
+  box-sizing: border-box;
+}
+.civil-explore-box {
+  left: 1138px;
+}
+.civil-explore-box,
+.contact-us-box,
+.criminal-explore-box,
+.searchbox {
+  background-color: var(--color-gray-200);
+  position: absolute;
+  box-sizing: border-box;
+}
+.criminal-explore-box {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-100);
+  padding: 0;
+  top: 2236px;
+  left: 752px;
+  width: 135px;
+  height: 46px;
+}
+.contact-us-box,
+.searchbox {
+  border: 1px solid var(--color-white);
+  top: 529px;
+  left: 119px;
+  width: 655px;
+  height: 76px;
+}
+.searchbox {
+  cursor: pointer;
+  padding: 0;
+  left: 774px;
+  width: 134px;
+}
+.landing-page,
+.search {
+  text-align: left;
+  color: var(--color-white);
+}
+.search {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 547px;
+  left: 797px;
+  font-size: var(--font-size-10xl);
+  font-family: var(--font-microsoft-sans-serif);
+  display: inline-block;
+  width: 161px;
+  height: 40px;
+}
+.landing-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3417px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+.criminal-explore,
+.family-explore {
+  top: 2240px;
+  color: var(--color-gray-100);
+}
+.family-explore {
+  text-decoration: none;
+  position: absolute;
+  left: 380px;
+  font-size: var(--font-size-10xl);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 170px;
+  height: 42px;
+}
+.criminal-explore {
+  left: 770px;
+}
+.civil-explore,
+.criminal-explore,
+.recent-pre {
+  text-decoration: none;
+  position: absolute;
+  font-size: var(--font-size-10xl);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 170px;
+  height: 42px;
+}
+.recent-pre {
+  top: 3025px;
+  left: 669px;
+  color: inherit;
+}
+.civil-explore {
+  top: 2240px;
+  left: 1160px;
+  color: var(--color-gray-100);
+}
+.civil-explore-box,
+.faimly-explore-box {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-100);
+  padding: 0;
+  top: 2236px;
+  width: 135px;
+  height: 46px;
+}
+.faimly-explore-box {
+  background-color: var(--color-gray-200);
+  position: absolute;
+  left: 365px;
+  box-sizing: border-box;
+}
+.civil-explore-box {
+  left: 1138px;
+}
+.civil-explore-box,
+.contact-us-box,
+.criminal-explore-box,
+.searchbox {
+  background-color: var(--color-gray-200);
+  position: absolute;
+  box-sizing: border-box;
+}
+.criminal-explore-box {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-100);
+  padding: 0;
+  top: 2236px;
+  left: 752px;
+  width: 135px;
+  height: 46px;
+}
+
+:root {
+  /* fonts */
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+  --font-inter: Inter;
+  --font-outfit: Outfit;
+  --font-mogra: Mogra;
+
+  /* font sizes */
+  --font-size-10xl: 29px;
+  --font-size-mini: 15px;
+  --font-size-16xl: 35px;
+  --font-size-xl: 20px;
+  --font-size-36xl: 55px;
+  --font-size-26xl: 45px;
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #290505;
+  --color-gray-200: rgba(255, 255, 255, 0);
+  --color-saddlebrown: #8b581c;
+}
+
+
+
+
+
+
+
+
+
+.legal-resources-hub {
+  margin: 0;
+  position: absolute;
+  top: 36px;
+  left: 170px;
+  font-size: 40px;
+  font-weight: 400;
+  font-family: inherit;
+  color: #290505;
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.header-box {
+  position: absolute;
+  top: 30px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: #8b581c;
+  width: 723px;
+  height: 69px;
+}
+.glossary {
+  text-decoration: none;
+  left: 1113px;
+  color: inherit;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 48px;
+  display: inline-block;
+}
+.about-us {
+  text-decoration: none;
+  left: 924px;
+  color: inherit;
+  width: 136px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  text-decoration: none;
+  top: 47px;
+  left: 786px;
+  color: inherit;
+  width: 85px;
+  height: 28px;
+}
+.the-competition-amendment,
+.the-constitution-scheduled,
+.the-indian-institutes {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+}
+.the-competition-amendment {
+  top: 2614px;
+  left: 1071px;
+  width: 232px;
+  height: 46px;
+}
+.the-constitution-scheduled,
+.the-indian-institutes {
+  top: 2752px;
+  left: 1057px;
+  width: 258px;
+}
+.the-indian-institutes {
+  top: 2904px;
+  left: 1059px;
+  width: 253px;
+}
+.law-hammer-image {
+  position: absolute;
+  top: 4px;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.header {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 202px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-mogra);
+}

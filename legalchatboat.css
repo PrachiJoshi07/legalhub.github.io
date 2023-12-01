@@ -1,0 +1,332 @@
+
+/*legal chatboat style */
+
+.image-2-icon {
+  position: absolute;
+  top: 21px;
+  left: 403px;
+  width: 634px;
+  height: 255px;
+  object-fit: cover;
+}
+.hello {
+  position: absolute;
+  top: 282px;
+  left: 115px;
+  display: inline-block;
+  width: 347px;
+  height: 157px;
+}
+.blank-line,
+.legal-chatbot1 {
+  margin-block-start: 0;
+  margin-block-end: 1.2px;
+}
+.legal-chatbot1 {
+  font-size: 80px;
+}
+.is-here,
+.legal-chatbot,
+.your {
+  position: absolute;
+  display: inline-block;
+}
+.legal-chatbot {
+  top: 188px;
+  left: 488px;
+  width: 1080px;
+  height: 208px;
+}
+.is-here,
+.your {
+  top: 285px;
+  left: 308px;
+  width: 375px;
+  height: 46px;
+}
+.is-here {
+  top: 282px;
+  left: 1079px;
+  width: 531px;
+  height: 98px;
+}
+.legalchatboat-child {
+  position: absolute;
+  top: 600px;
+  left: 71px;
+  border-radius: 40px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1297px;
+  height: 78px;
+}
+.type-your-querry {
+  position: absolute;
+  top: 623px;
+  left: 123px;
+  font-size: 30px;
+  font-family: var(--font-microsoft-sans-serif);
+  display: inline-block;
+  width: 704px;
+  height: 47px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 607px;
+  left: 1259px;
+  width: 86px;
+  height: 78px;
+  object-fit: cover;
+}
+.legalchatboat {
+  position: absolute;
+  background-color: rgba(255, 94, 4, 0.17);
+  border: 30px solid #4c1c01;
+  box-sizing: border-box;
+  width: 100%;
+  height: 774px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+  --font-mogra: Mogra;
+  --font-outfit: Outfit;
+
+  /* font sizes */
+  --font-size-41xl: 60px;
+  --font-size-xl: 20px;
+  --font-size-26xl: 45px;
+
+  /* Colors */
+  --color-saddlebrown-100: #8b581c;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray: #290505;
+}
+
+/*experience page styling*/
+.legal-resources-hub {
+  position: absolute;
+  top: 32px;
+  left: 170px;
+  font-size: 40px;
+  color: #290505;
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.share-your-case-experience-child {
+  position: absolute;
+  top: 26px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: #8b581c;
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.domains,
+.glossary,
+.home {
+  position: absolute;
+  top: 44px;
+  left: 1113px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.glossary,
+.home {
+  left: 924px;
+  height: 51px;
+}
+.glossary,
+.home {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 43px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 10px;
+  left: 78px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.recently-shared-experiences,
+.share-your-case {
+  position: absolute;
+  top: 151px;
+  left: 355px;
+  font-size: var(--font-size-31xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 910px;
+  height: 99px;
+}
+.recently-shared-experiences {
+  top: 805px;
+  left: 433px;
+  width: 792px;
+  height: 62px;
+}
+.rectangle-div,
+.share-your-case-experience-inner,
+.share-your-case-experience-item {
+  position: absolute;
+  top: 353px;
+  left: 253px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1000px;
+  height: 52px;
+}
+.rectangle-div,
+.share-your-case-experience-inner {
+  top: 466px;
+  height: 257px;
+}
+.rectangle-div {
+  top: 880px;
+  left: 255px;
+  height: 247px;
+}
+.case-description,
+.case-title {
+  position: absolute;
+  top: 305px;
+  left: 255px;
+  display: inline-block;
+  width: 168px;
+  height: 41px;
+}
+.case-description {
+  top: 413px;
+  width: 277px;
+  height: 36px;
+}
+.share-your-case-experience-child1 {
+  top: 744px;
+  left: 255px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 130px;
+  height: 45px;
+}
+.share-your-case-experience-child1,
+.share-your-case-experience-child2,
+.share-your-case-experience-child3 {
+  position: absolute;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.share-your-case-experience-child2 {
+  top: 1163px;
+  left: 255px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 130px;
+  height: 45px;
+}
+.share-your-case-experience-child3 {
+  top: 270px;
+  left: 170px;
+  background-color: transparent;
+  width: 1163px;
+  height: 994px;
+}
+.post,
+.reply {
+  position: absolute;
+  top: 759px;
+  left: 284px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 72px;
+  height: 59px;
+}
+.reply {
+  top: 1170px;
+  width: 135px;
+  height: 52px;
+}
+.share-your-case-experience {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1304px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+.recently-shared-experiences{
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1304px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+  
+
+}
+.rectangle-div,
+.recently-shared-experiences-inner {
+  top: 466px;
+  height: 257px;
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: rgba(217, 217, 217, 0.27);
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
+
+
+
+

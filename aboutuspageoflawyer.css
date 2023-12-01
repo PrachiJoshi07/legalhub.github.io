@@ -1,0 +1,225 @@
+.legal-resources-hub {
+  position: absolute;
+  top: 32px;
+  left: 170px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray);
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.about-page-of-lawyer-1-child {
+  position: absolute;
+  top: 26px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: #8b581c;
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 44px;
+  left: 1113px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.home,
+.login {
+  left: 924px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 43px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 0;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.about-page-of-lawyer-1-inner,
+.about-page-of-lawyer-1-item {
+  position: absolute;
+  top: 145px;
+  left: 51px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 517px;
+  height: 931px;
+}
+.about-page-of-lawyer-1-inner {
+  top: 614px;
+  left: 93px;
+  border-radius: 50px;
+  border: 1px solid var(--color-gray);
+  width: 454px;
+  height: 67px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 182px;
+  left: 174px;
+  border-radius: 50%;
+  width: 232px;
+  height: 223px;
+  object-fit: cover;
+}
+.advocate-shubham-borkar {
+  margin: 0;
+}
+.advocate-shubham-borkar-container {
+  position: absolute;
+  top: 468px;
+  left: 160px;
+  font-size: 25px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 486px;
+  height: 87px;
+}
+.lawyer-at-r-container {
+  position: absolute;
+  top: 505px;
+  left: 110px;
+  font-size: 20px;
+  font-family: var(--font-microsoft-sans-serif);
+
+  text-align: center;
+  display: inline-block;
+  width: 400px;
+}
+.book-consultation {
+  position: absolute;
+  top: 627px;
+  left: 176px;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 404px;
+  height: 40px;
+}
+.about-page-of-lawyer-1-child1,
+.rectangle-div {
+  position: absolute;
+  top: 812px;
+  left: 86px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 461px;
+  height: 76px;
+}
+.about-page-of-lawyer-1-child1 {
+  top: 915px;
+}
+.hindi-english {
+  top: 834px;
+  left: 144px;
+  font-family: var(--font-microsoft-sans-serif);
+  width: 221px;
+  height: 66px;
+}
+.about-me,
+.hindi-english,
+.pune-maharashtra-india {
+  position: absolute;
+  display: inline-block;
+}
+.pune-maharashtra-india {
+  top: 935px;
+  left: 144px;
+  font-family: var(--font-microsoft-sans-serif);
+  width: 352px;
+  height: 145px;
+}
+.about-me {
+  top: 165px;
+  left: 656px;
+  font-size: var(--font-size-21xl);
+  width: 435px;
+  height: 128px;
+}
+.advocate-startup-coach-container {
+  position: absolute;
+  top: 229px;
+  left: 650px;
+  font-size: 23px;
+  letter-spacing: 0.01em;
+  font-family: var(--font-sorts-mill-goudy);
+  text-align: justify;
+  display: inline-block;
+  width: 718px;
+  height: 1044px;
+}
+.image-58-icon,
+.image-59-icon {
+  position: absolute;
+  top: 927px;
+  left: 62px;
+  width: 112px;
+  height: 63px;
+  object-fit: cover;
+}
+.image-59-icon {
+  top: 834px;
+  left: 93px;
+  width: 40px;
+  height: 33px;
+}
+.about-page-of-lawyer-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1137px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sorts-mill-goudy: "Sorts Mill Goudy";
+  --font-mogra: Mogra;
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #290505;
+}
+/*Remove underline from specific links */
+.glossary,
+.about-us,
+.home {
+  text-decoration: none;
+  color:rgb(255, 255, 255);
+}

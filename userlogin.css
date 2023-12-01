@@ -1,0 +1,201 @@
+.user-background-box {
+  position: absolute;
+  top: 199px;
+  left: 488px;
+  background-color: var(--color-saddlebrown);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 447px;
+  height: 496px;
+}
+.login-box-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 563px;
+  left: 508px;
+  width: 406px;
+  height: 60px;
+}
+.legal-resources-hub {
+  position: absolute;
+  top: 49px;
+  left: 170px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray);
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.headerrr-box {
+  position: absolute;
+  top: 43px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: var(--color-saddlebrown);
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 61px;
+  left: 1113px;
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.home,
+.login {
+  left: 924px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 60px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 17px;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.user-name-box-1,
+.user-password-box-1 {
+  position: absolute;
+  top: 354px;
+  left: 508px;
+  background-color: var(--color-white);
+  width: 406px;
+  height: 60px;
+}
+.user-password-box-1 {
+  top: 439px;
+}
+.user-login1 {
+  position: absolute;
+  top: 247px;
+  left: 589px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 268px;
+  height: 45px;
+}
+.username {
+  border: 0;
+  font-family: var(--font-molengo);
+  font-size: var(--font-size-lgi);
+  background-color: transparent;
+  top: 368px;
+  left: 518px;
+  color: var(--color-black);
+  text-align: left;
+  width: 353px;
+  height: 46px;
+}
+.login1,
+.password,
+.username {
+  position: absolute;
+  display: inline-block;
+}
+.password {
+  border: 0;
+  font-family: var(--font-molengo);
+  font-size: var(--font-size-lgi);
+  background-color: transparent;
+  top: 451px;
+  left: 518px;
+  color: var(--color-black);
+  text-align: left;
+  width: 396px;
+  height: 48px;
+}
+.login1 {
+  top: 577px;
+  left: 659px;
+  color: var(--color-gray);
+  width: 123px;
+  height: 90px;
+}
+.dont-have-an,
+.lawyer-login,
+.registor {
+  position: absolute;
+  top: 639px;
+  left: 675px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 182px;
+  height: 56px;
+}
+.lawyer-login,
+.registor {
+  left: 857px;
+  width: 227px;
+  height: 43px;
+}
+.lawyer-login {
+  top: 638px;
+  left: 508px;
+  width: 157px;
+  height: 44px;
+}
+.user-login {
+  position: relative;
+  background-color: var(--color-white);
+  border: 10px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 100%;
+  height: 728px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+  --font-molengo: Molengo;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-11xl: 30px;
+  --font-size-lgi: 19px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #290505;
+  --color-black: #000;
+  --color-saddlebrown: #8b581c;
+}
+/* Apply the styles to anchor tags with specific classes */
+a.glossary,
+a.about-us,
+a.login,
+a.home {
+  color: white; /* Set the text color to white */
+  text-decoration: none; /* Remove the underline */
+}

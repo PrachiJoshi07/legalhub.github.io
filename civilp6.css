@@ -1,0 +1,223 @@
+.civil-law-p-6-child,
+.civil-law-p-6-inner,
+.civil-law-p-6-item {
+  position: absolute;
+  top: 79px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.civil-law-p-6-child {
+  cursor: pointer;
+  padding: 0;
+  left: 59px;
+}
+.civil-law-p-6-inner,
+.civil-law-p-6-item {
+  left: 250px;
+}
+.civil-law-p-6-inner {
+  left: 441px;
+}
+.indian-property-law {
+  position: absolute;
+  top: 89px;
+  left: 68px;
+  display: inline-block;
+  width: 144px;
+  height: 41px;
+}
+.civil-law-p-6-child1,
+.civil-law-p-6-child2,
+.rectangle-div {
+  position: absolute;
+  top: 79px;
+  left: 632px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.civil-law-p-6-child1,
+.civil-law-p-6-child2 {
+  left: 823px;
+}
+.civil-law-p-6-child2 {
+  left: 1014px;
+}
+.partition-act-1893,
+.registration-act-1908,
+.transfer-of-property {
+  position: absolute;
+  top: 93px;
+  left: 261px;
+  display: inline-block;
+  width: 155px;
+  height: 91px;
+}
+.partition-act-1893,
+.registration-act-1908 {
+  left: 466px;
+  width: 132px;
+  height: 87px;
+}
+.partition-act-1893 {
+  top: 95px;
+  left: 640px;
+  width: 154px;
+  height: 192px;
+}
+.consumer-protection-law,
+.the-drugs-and,
+.the-prevention-of {
+  position: absolute;
+  top: 95px;
+  left: 844px;
+  display: inline-block;
+  width: 135px;
+  height: 92px;
+}
+.the-drugs-and,
+.the-prevention-of {
+  top: 88px;
+  left: 1025px;
+  width: 158px;
+  height: 134px;
+}
+.the-prevention-of {
+  top: 90px;
+  left: 1215px;
+  font-size: 12px;
+  width: 155px;
+  height: 87px;
+}
+.civil-law-p-6-child3 {
+  position: absolute;
+  top: 79px;
+  left: 1204px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.blank-line,
+.the-drugs-and1 {
+  font-size: var(--font-size-21xl);
+}
+.the-drugs-and1 {
+  position: absolute;
+  top: 222px;
+  left: 194px;
+  color: rgba(0, 0, 0, 0.95);
+  text-align: justify;
+  display: inline-block;
+  width: 803px;
+  height: 64px;
+}
+.blank-line {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+  font-family: var(--font-mogra);
+}
+.regulation-of-drugs {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mplus-1p-bold);
+}
+.regulation-of-drugs-and-cosmet {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.the-drugs-and-container {
+  position: absolute;
+  top: 297px;
+  left: 196px;
+  text-align: justify;
+  display: inline-block;
+  width: 1043px;
+  height: 1072px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.manufacturers-importers-and {
+  margin-bottom: 0;
+}
+.the-act-mandates {
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.licensing-and-registration-ma {
+  margin: 0;
+  font-family: var(--font-mplus-1p-bold);
+  font-size: var(--font-size-xl);
+  padding-left: var(--padding-8xl);
+}
+.blank-line43,
+.the-act-specifies {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.blank-line43 {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mplus-1p-bold);
+}
+.its-important-to {
+  margin: 0;
+}
+.procedure-under-drugs-container {
+  position: absolute;
+  top: 1379px;
+  left: 202px;
+  text-align: justify;
+  display: inline-block;
+  width: 1027px;
+  height: 1130px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.civil-law-p-6 {
+  position: relative;
+  background-color: #fff;
+  border: 30px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 100%;
+  height: 2509px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+  --font-mplus-1p-bold: "Mplus 1p Bold";
+  --font-mogra: Mogra;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --color-saddlebrown: #4c1c01;
+  --color-black: #000;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+
+  /* Paddings */
+  --padding-8xl: 27px;
+}
+
+a {
+  color: black; /* Set text color to black */
+  text-decoration: none; /* Remove underlines */
+}

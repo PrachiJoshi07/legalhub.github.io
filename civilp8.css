@@ -1,0 +1,230 @@
+
+/*civil law page 8 style */
+
+.registration-act-1908 {
+  position: absolute;
+  top: 183px;
+  left: 238px;
+  font-size: var(--font-size-21xl);
+  color: rgba(0, 0, 0, 0.95);
+  text-align: justify;
+  display: inline-block;
+  width: 803px;
+  height: 64px;
+}
+.the-registration-act {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.conservation-of-evidence {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mplus-1p-bold);
+}
+.conservation-of-evidence-one1 {
+  margin-bottom: 0;
+}
+.conservation-of-evidence-one {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.key-provisions {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.key-provisions,
+.span {
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-mogra);
+}
+.the-registration-act-container {
+  position: absolute;
+  top: 251px;
+  left: 238px;
+  text-align: justify;
+  display: inline-block;
+  width: 1043px;
+  height: 1244px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.visit-the-registration {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mplus-1p-bold);
+  color: rgba(0, 0, 0, 0.2);
+}
+.the-act-is-essential-in-the-co {
+  margin: 0;
+}
+.registration-procedure-the-container {
+  position: absolute;
+  top: 1773px;
+  left: 238px;
+  text-align: justify;
+  display: inline-block;
+  width: 1083px;
+  height: 570px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.image-1-icon {
+  position: absolute;
+  top: 1517px;
+  left: 518px;
+  width: 426px;
+  height: 321px;
+  object-fit: cover;
+}
+.civil-law-p-8-child,
+.civil-law-p-8-inner,
+.civil-law-p-8-item {
+  position: absolute;
+  top: 79px;
+  left: 59px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.civil-law-p-8-inner,
+.civil-law-p-8-item {
+  left: 250px;
+}
+.civil-law-p-8-inner {
+  left: 441px;
+}
+.indian-property-law {
+  position: absolute;
+  top: 89px;
+  left: 68px;
+  display: inline-block;
+  width: 144px;
+  height: 41px;
+}
+.civil-law-p-8-child1,
+.civil-law-p-8-child2,
+.rectangle-div {
+  position: absolute;
+  top: 79px;
+  left: 632px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.civil-law-p-8-child1,
+.civil-law-p-8-child2 {
+  left: 823px;
+}
+.civil-law-p-8-child2 {
+  left: 1014px;
+}
+.partition-act-1893,
+.registration-act-19081,
+.transfer-of-property {
+  position: absolute;
+  top: 93px;
+  left: 261px;
+  display: inline-block;
+  font-size: 13px;
+  width: 155px;
+  height: 91px;
+}
+.partition-act-1893,
+.registration-act-19081 {
+  left: 466px;
+  width: 132px;
+  height: 87px;
+}
+.partition-act-1893 {
+  top: 95px;
+  left: 640px;
+  width: 154px;
+  height: 192px;
+}
+.consumer-protection-law,
+.the-drugs-and,
+.the-prevention-of {
+  position: absolute;
+  top: 95px;
+  left: 844px;
+  display: inline-block;
+  width: 135px;
+  height: 92px;
+}
+.the-drugs-and,
+.the-prevention-of {
+  top: 88px;
+  left: 1025px;
+  width: 158px;
+  height: 134px;
+}
+.the-prevention-of {
+  top: 90px;
+  left: 1215px;
+  font-size: 12px;
+  width: 155px;
+  height: 87px;
+}
+.civil-law-p-8-child3 {
+  position: absolute;
+  top: 79px;
+  left: 1204px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.civil-law-p-8 {
+  position: relative;
+  background-color: #fff;
+  border: 30px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 100%;
+  height: 2683px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+  --font-mplus-1p-bold: "Mplus 1p Bold";
+
+  /* font sizes */
+  --font-size-smi: 13px;
+  --font-size-base: 16px;
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-saddlebrown: #4c1c01;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-8xl: 27px;
+}
+
+
+
+a {
+  color: black; /* Set text color to black */
+  text-decoration: none; /* Remove underlines */
+}
+
+
+
+
+
+

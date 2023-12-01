@@ -1,0 +1,397 @@
+
+/* glossary style  */
+.legal-resources-hub {
+  position: absolute;
+  top: 44px;
+  left: 161px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.legal-glossary-child {
+  position: absolute;
+  top: 38px;
+  left: 708px;
+  border-radius: 115px 0 0 0;
+  background-color: var(--color-saddlebrown);
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.domains,
+.glossary,
+.home {
+  position: absolute;
+  top: 56px;
+  left: 1104px;
+  font-family: var(--font-mogra);
+  color: var(--color-white);
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.glossary,
+.home {
+  left: 915px;
+  height: 51px;
+}
+.glossary,
+.home {
+  left: 1275px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 55px;
+  left: 777px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 12px;
+  left: 64px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.legal-glossary1 {
+  position: absolute;
+  top: 160px;
+  left: 64px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-mogra);
+  text-align: justify;
+  display: inline-block;
+  width: 292px;
+  height: 56px;
+}
+.p-to-r {
+  position: absolute;
+  width: calc(100% - 1293px);
+  top: calc(50% - 288.5px);
+  left: 60px;
+  text-decoration: underline;
+  color: inherit;
+  display: none;
+  height: 109px;
+}
+.legal-glossary-item {
+  position: absolute;
+  top: 228px;
+  left: 64px;
+  background-color: var(--color-saddlebrown);
+  width: 1333px;
+  height: 77px;
+}
+.title,
+.view {
+  position: absolute;
+  top: 240px;
+  left: 92px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  text-align: justify;
+  display: inline-block;
+  width: 251px;
+  height: 37px;
+}
+.view {
+  left: 1251px;
+  width: 203px;
+  height: 47px;
+}
+.a-to-c,
+.d-to-g,
+.h-to-l,
+.m-to-o,
+.s-to-v,
+.w-to-z {
+  position: absolute;
+  width: calc(100% - 1291px);
+  top: calc(50% - 423.5px);
+  left: 76px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  height: 90px;
+}
+.d-to-g,
+.h-to-l,
+.m-to-o,
+.s-to-v,
+.w-to-z {
+  width: calc(100% - 1329px);
+  top: calc(50% - 346.5px);
+  height: 152px;
+}
+.h-to-l,
+.m-to-o,
+.s-to-v,
+.w-to-z {
+  width: calc(100% - 1282px);
+  top: calc(50% - 270.5px);
+  height: 62px;
+}
+.m-to-o,
+.s-to-v,
+.w-to-z {
+  width: calc(100% - 1320px);
+  top: calc(50% - 194.5px);
+  left: 67px;
+  height: 87px;
+}
+.s-to-v,
+.w-to-z {
+  width: calc(100% - 1302px);
+  top: calc(50% - 40.5px);
+  left: 77px;
+  height: 73px;
+}
+.w-to-z {
+  width: calc(100% - 1274px);
+  top: calc(50% + 29.5px);
+  left: 76px;
+  height: 152px;
+}
+.glossary-related-to,
+.latin-hindi,
+.new-added-words,
+.subject-list-and,
+.words-used-in {
+  position: absolute;
+  width: calc(100% - 555px);
+  top: calc(50% + 113.5px);
+  left: 77px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  height: 47px;
+}
+.glossary-related-to,
+.latin-hindi,
+.new-added-words,
+.subject-list-and {
+  width: calc(100% - 444px);
+  top: calc(50% + 189.5px);
+  left: 76px;
+  height: 103px;
+}
+.latin-hindi,
+.new-added-words,
+.subject-list-and {
+  width: calc(100% - 381px);
+  top: calc(50% + 268.5px);
+  left: 77px;
+  height: 114px;
+}
+.latin-hindi,
+.subject-list-and {
+  width: calc(100% - 1116px);
+  top: calc(50% + 340.5px);
+  left: 80px;
+  height: 84px;
+}
+.subject-list-and {
+  width: calc(100% - 389px);
+  top: calc(50% + 424.5px);
+  left: 72px;
+  height: 67px;
+}
+.cover-hindi {
+  width: calc(100% - 1187px);
+  top: calc(50% + 503.5px);
+  left: 77px;
+  text-decoration: underline;
+  height: 87px;
+}
+.cover-hindi,
+.foreword-of-first,
+.role-of-the {
+  position: absolute;
+  color: inherit;
+  display: inline-block;
+}
+.foreword-of-first {
+  width: calc(100% - 670px);
+  top: calc(50% + 574.5px);
+  left: 80px;
+  text-decoration: underline;
+  height: 109px;
+}
+.role-of-the {
+  width: calc(100% - 874px);
+  top: calc(50% + 657.5px);
+  left: 76px;
+  height: 89px;
+}
+.role-of-the,
+.view2 {
+  text-decoration: underline;
+}
+.view1 {
+  color: inherit;
+}
+.p-to-r1,
+.view1-mb,
+.view1-mb1,
+.view2-mb,
+.view3-mb {
+  position: absolute;
+  top: 329px;
+  left: 1220px;
+  color: inherit;
+  text-align: justify;
+}
+.p-to-r1,
+.view1-mb,
+.view1-mb1,
+.view2-mb {
+  top: 400px;
+  left: 1228px;
+}
+.p-to-r1,
+.view1-mb,
+.view1-mb1 {
+  top: 483px;
+  left: 1229px;
+}
+.p-to-r1,
+.view1-mb1 {
+  top: 560px;
+  left: 1228px;
+}
+.p-to-r1 {
+  top: 630px;
+  left: 77px;
+  text-decoration: underline;
+}
+.view2-mb1,
+.view2-mb2,
+.view2-mb3,
+.view4-mb,
+.view486-kb,
+.view7-mb {
+  position: absolute;
+  top: 635px;
+  left: 1228px;
+  color: inherit;
+  text-align: justify;
+}
+.view2-mb2,
+.view2-mb3,
+.view4-mb,
+.view486-kb,
+.view7-mb {
+  top: 710px;
+}
+.view2-mb3,
+.view4-mb,
+.view486-kb,
+.view7-mb {
+  top: 780px;
+  left: 1205px;
+}
+.view2-mb3,
+.view4-mb,
+.view7-mb {
+  top: 1098px;
+  left: 1228px;
+}
+.view4-mb,
+.view7-mb {
+  top: 859px;
+  left: 1229px;
+}
+.view7-mb {
+  top: 944px;
+  left: 1228px;
+}
+.view1-mb2,
+.view10-mb,
+.view187-kb,
+.view3-mb1,
+.view739-kb {
+  position: absolute;
+  top: 1021px;
+  left: 1231px;
+  color: inherit;
+  text-align: justify;
+}
+.view1-mb2,
+.view10-mb,
+.view187-kb,
+.view739-kb {
+  top: 1176px;
+  left: 1209px;
+}
+.view1-mb2,
+.view10-mb,
+.view187-kb {
+  top: 1250px;
+  left: 1207px;
+}
+.view1-mb2,
+.view10-mb {
+  top: 1324px;
+  left: 1228px;
+}
+.view10-mb {
+  top: 1402px;
+  left: 1216px;
+}
+.legal-glossary {
+  position: relative;
+  background-color: var(--color-white);
+  border: 10px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1525px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-mongolian-baiti);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mongolian-baiti: "Mongolian Baiti";
+  --font-mogra: Mogra;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #290505;
+  --color-black: #000;
+  --color-saddlebrown: #8b581c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Remove underline from specific links */
+.glossary,
+.about-us,
+.home {
+  text-decoration: none;
+}
