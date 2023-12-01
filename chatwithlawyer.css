@@ -1,0 +1,870 @@
+.legal-resources-hub {
+  position: absolute;
+  top: 32px;
+  left: 170px;
+  font-size: 40px;
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.legal-experts-child {
+  position: absolute;
+  top: 26px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: #8b581c;
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 44px;
+  left: 1113px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-mogra);
+  color: var(--color-white);
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.home,
+.login {
+  left: 924px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 43px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 0;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.legal-experts-item {
+  position: absolute;
+  top: 158px;
+  left: 45px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.legal-experts-inner {
+  position: absolute;
+  top: 194px;
+  left: 73px;
+  border-radius: 50%;
+  width: 81px;
+  height: 76px;
+  object-fit: cover;
+}
+.advocate-shubham-borkar {
+  margin: 0;
+}
+.advocate-shubham-borkar-container,
+.exp-7-years {
+  position: absolute;
+  left: 181px;
+  display: inline-block;
+}
+.advocate-shubham-borkar-container {
+  top: 194px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  font-family: var(--font-mogra);
+  color: inherit;
+  width: 327px;
+  height: 87px;
+}
+.exp-7-years {
+  top: 295px;
+  width: 161px;
+  height: 45px;
+}
+.lawyer-at-r {
+  position: absolute;
+  top: 232px;
+  left: 178px;
+}
+.book-1,
+.pune-maharashtra-india {
+  position: absolute;
+  top: 262px;
+  left: 178px;
+}
+.book-1 {
+  top: 295px;
+  left: 397px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-snow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation {
+  position: absolute;
+  top: 303px;
+  left: 370px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 313px;
+  height: 33px;
+}
+.book-2,
+.rectangle-div {
+  position: absolute;
+  top: 158px;
+  left: 741px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.book-2 {
+  top: 295px;
+  left: 1093px;
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation1 {
+  position: absolute;
+  top: 303px;
+  left: 1066px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 313px;
+  height: 33px;
+}
+.book-3,
+.legal-experts-child1 {
+  position: absolute;
+  top: 409px;
+  left: 45px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.book-3 {
+  top: 546px;
+  left: 397px;
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation2 {
+  position: absolute;
+  top: 554px;
+  left: 370px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 313px;
+  height: 33px;
+}
+.legal-experts-child2 {
+  position: absolute;
+  top: 409px;
+  left: 741px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.exp-7-years2 {
+  position: absolute;
+  top: 546px;
+  left: 877px;
+  display: inline-block;
+  width: 161px;
+  height: 45px;
+}
+.lawyer-at-r2 {
+  position: absolute;
+  top: 483px;
+  left: 874px;
+}
+.book-4,
+.pune-maharashtra-india2 {
+  position: absolute;
+  top: 513px;
+  left: 874px;
+}
+.book-4 {
+  top: 546px;
+  left: 1093px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-snow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation3,
+.exp-10-years {
+  position: absolute;
+  display: inline-block;
+}
+.book-consultation3 {
+  top: 554px;
+  left: 1066px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  width: 313px;
+  height: 33px;
+}
+.exp-10-years {
+  top: 550px;
+  left: 178px;
+  width: 161px;
+  height: 45px;
+}
+.img-4-icon {
+  position: absolute;
+  top: 445px;
+  left: 762px;
+  border-radius: 50%;
+  width: 81px;
+  height: 76px;
+  object-fit: cover;
+}
+.ajay-gautam,
+.kushal-mor {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mogra);
+  display: inline-block;
+  width: 327px;
+  height: 87px;
+}
+.kushal-mor {
+  top: 443px;
+  left: 877px;
+  text-decoration: underline;
+  color: inherit;
+}
+.ajay-gautam {
+  top: 448px;
+  left: 178px;
+}
+.img-3-icon {
+  position: absolute;
+  top: 443px;
+  left: 73px;
+  border-radius: 50%;
+  width: 81px;
+  height: 76px;
+  object-fit: cover;
+}
+.advocate-supreme-court,
+.delhi-india {
+  position: absolute;
+  left: 178px;
+  display: inline-block;
+}
+.delhi-india {
+  top: 527px;
+  width: 76px;
+  height: 23px;
+}
+.advocate-supreme-court {
+  top: 489px;
+  width: 298px;
+}
+.book-5,
+.legal-experts-child3 {
+  position: absolute;
+  top: 652px;
+  left: 45px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.book-5 {
+  top: 789px;
+  left: 397px;
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation4 {
+  position: absolute;
+  top: 797px;
+  left: 370px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 313px;
+  height: 33px;
+}
+.book-6,
+.legal-experts-child4 {
+  position: absolute;
+  top: 652px;
+  left: 741px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.book-6 {
+  top: 789px;
+  left: 1093px;
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation5 {
+  position: absolute;
+  top: 797px;
+  left: 1066px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 313px;
+  height: 33px;
+}
+.img-5-icon {
+  position: absolute;
+  top: 686px;
+  left: 63px;
+  border-radius: 50%;
+  width: 81px;
+  height: 76px;
+  object-fit: cover;
+}
+.surjendu-sankar-das-container {
+  top: 686px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  font-family: var(--font-mogra);
+  color: inherit;
+  width: 327px;
+  height: 87px;
+}
+.advocate-on-record,
+.exp-14-years,
+.surjendu-sankar-das-container {
+  position: absolute;
+  left: 174px;
+  display: inline-block;
+}
+.exp-14-years {
+  top: 798px;
+  width: 161px;
+  height: 45px;
+}
+.advocate-on-record {
+  top: 725px;
+  width: 261px;
+}
+.delhi-india1,
+.exp-5-years {
+  position: absolute;
+  top: 770px;
+  left: 174px;
+}
+.exp-5-years {
+  top: 785px;
+  left: 877px;
+  display: inline-block;
+  width: 161px;
+  height: 45px;
+}
+.raman-yadav {
+  position: absolute;
+  top: 686px;
+  left: 873px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  font-family: var(--font-mogra);
+  color: inherit;
+}
+.advocate-at-supreme {
+  position: absolute;
+  top: 720px;
+  left: 873px;
+  display: inline-block;
+  width: 173px;
+}
+.img-6-icon,
+.new-delhi-india {
+  position: absolute;
+  top: 759px;
+  left: 877px;
+}
+.img-6-icon {
+  top: 683px;
+  left: 762px;
+  border-radius: 50%;
+  width: 81px;
+  height: 76px;
+  object-fit: cover;
+}
+.book-7,
+.legal-experts-child5 {
+  position: absolute;
+  top: 908px;
+  left: 45px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.book-7 {
+  top: 1045px;
+  left: 397px;
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation6 {
+  position: absolute;
+  top: 1053px;
+  left: 370px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 313px;
+  height: 33px;
+}
+.book-8,
+.legal-experts-child6 {
+  position: absolute;
+  top: 908px;
+  left: 741px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.book-8 {
+  top: 1045px;
+  left: 1093px;
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation7,
+.exp-20-years {
+  position: absolute;
+  display: inline-block;
+}
+.book-consultation7 {
+  top: 1053px;
+  left: 1066px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  width: 313px;
+  height: 33px;
+}
+.exp-20-years {
+  top: 1037px;
+  left: 169px;
+  width: 161px;
+  height: 45px;
+}
+.sukumar-advocate-supreme {
+  text-decoration: underline;
+}
+.sukumar-advocate-supreme-cou1 {
+  color: inherit;
+}
+.sukumar-advocate-supreme-container {
+  position: absolute;
+  top: 950px;
+  left: 169px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mogra);
+  color: inherit;
+  display: inline-block;
+  width: 332px;
+  height: 87px;
+}
+.exp-25-years {
+  position: absolute;
+  top: 1041px;
+  left: 877px;
+  display: inline-block;
+  width: 161px;
+  height: 45px;
+}
+.rsevvilam-parithi-ramalingam-container {
+  position: absolute;
+  top: 942px;
+  left: 874px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  font-family: var(--font-mogra);
+  color: inherit;
+  display: inline-block;
+  width: 406px;
+}
+.advocate-at-ailc-all {
+  position: absolute;
+  top: 972px;
+  left: 877px;
+  display: inline-block;
+  width: 280px;
+}
+.delhi-india2,
+.tamil-nadu-india {
+  position: absolute;
+  top: 1013px;
+  left: 877px;
+}
+.delhi-india2 {
+  top: 1010px;
+  left: 169px;
+}
+.img-7-icon,
+.img-8-icon {
+  position: absolute;
+  top: 942px;
+  left: 58px;
+  border-radius: 50%;
+  width: 81px;
+  height: 76px;
+  object-fit: cover;
+}
+.img-8-icon {
+  top: 938px;
+  left: 767px;
+}
+.rahul-shyam-bhandari-container {
+  position: absolute;
+  top: 198px;
+  left: 877px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  font-family: var(--font-mogra);
+  color: inherit;
+}
+.img2 {
+  position: absolute;
+  top: 186px;
+  left: 762px;
+  border-radius: 50%;
+  background-color: var(--color-maroon);
+  width: 81px;
+  height: 76px;
+}
+.advocate-on-record1 {
+  position: absolute;
+  top: 242px;
+  left: 877px;
+  display: inline-block;
+  width: 280px;
+}
+.delhi-india3,
+.exp-5-years1 {
+  position: absolute;
+  top: 281px;
+  left: 877px;
+}
+.exp-5-years1 {
+  top: 305px;
+  display: inline-block;
+  width: 161px;
+  height: 45px;
+}
+.book-9,
+.legal-experts-child7 {
+  position: absolute;
+  top: 1164px;
+  left: 45px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.book-9 {
+  top: 1301px;
+  left: 397px;
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation8 {
+  position: absolute;
+  top: 1309px;
+  left: 370px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 313px;
+  height: 33px;
+}
+.book-10,
+.legal-experts-child8 {
+  position: absolute;
+  top: 1164px;
+  left: 741px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 197px;
+}
+.book-10 {
+  top: 1301px;
+  left: 1093px;
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+  width: 259px;
+  height: 47px;
+}
+.book-consultation9,
+.exp-5-years2 {
+  position: absolute;
+  display: inline-block;
+}
+.book-consultation9 {
+  top: 1309px;
+  left: 1066px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+  text-align: center;
+  width: 313px;
+  height: 33px;
+}
+.exp-5-years2 {
+  top: 1266px;
+  left: 164px;
+  width: 161px;
+  height: 45px;
+}
+.delhi-india4,
+.exp-5-years3 {
+  position: absolute;
+  top: 1244px;
+  left: 163px;
+}
+.exp-5-years3 {
+  top: 1311px;
+  left: 882px;
+  display: inline-block;
+  width: 161px;
+  height: 45px;
+}
+.rahul-shyam-bhandari-container1 {
+  position: absolute;
+  top: 1211px;
+  left: 882px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  font-family: var(--font-mogra);
+  color: inherit;
+}
+.advocate-on-record2 {
+  position: absolute;
+  top: 1247px;
+  left: 882px;
+  display: inline-block;
+  width: 280px;
+}
+.delhi-india5,
+.img-10-icon {
+  position: absolute;
+  top: 1290px;
+  left: 882px;
+}
+.img-10-icon {
+  top: 1198px;
+  left: 767px;
+  border-radius: 50%;
+  width: 81px;
+  height: 76px;
+  object-fit: cover;
+}
+.ayushi-dwivedi-advocate-container {
+  position: absolute;
+  top: 1211px;
+  left: 163px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mogra);
+  color: inherit;
+  display: inline-block;
+  width: 327px;
+  height: 87px;
+}
+.img-9 {
+  position: absolute;
+  top: 1197px;
+  left: 58px;
+  border-radius: 50%;
+  background-color: #5b2c2c;
+  width: 81px;
+  height: 76px;
+}
+.legal-experts {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  /* height: 1417px; */
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-microsoft-sans-serif);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #290505;
+  --color-snow: #fffafa;
+  --color-maroon: #540b0b;
+  --color-whitesmoke: #eae9e9;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
+
+/*Remove underline from specific links */
+.glossary,
+.about-us,
+.home {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+/* new css for lawyer div */
+.lawyer-div {
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 638px;
+  height: 160px;
+  padding: 2rem 0rem 0rem 1rem;
+  display: flex;
+  margin: 150px 5rem;
+}
+.lawyer-img-div {
+  border-radius: 50%;
+  background-color: #5b2c2c;
+  width: 81px;
+  height: 76px;
+  margin-right: 2rem;
+}
+.lawyer-body {
+  position: relative;
+  height: 100%;
+  margin-top: 1rem;
+}
+.lawyer-body h6 {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: var(--font-mogra);
+  margin: 0;
+  margin-bottom: 10px;
+}
+.lawyer-body p {
+  margin: 0;
+  font-size: 16px;
+  font-family: var(--font-microsoft-sans-serif);
+}
+.book-button {
+  position: absolute;
+  top: calc(100% - 80px);
+  left: calc(100% - 50px);
+  border: 1px solid var(--color-maroon);
+  border-radius: var(--br-xl);
+  background-color: var(--color-snow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 259px;
+  height: 47px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: var(--font-mogra);
+}
+.book-button a {
+  color: black;
+  text-decoration: none;
+}

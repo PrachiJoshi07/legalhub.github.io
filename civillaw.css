@@ -1,0 +1,411 @@
+/*civil law style */
+.what-is-civil {
+  position: absolute;
+  top: 210px;
+  left: 224px;
+  font-size: 40px;
+  display: inline-block;
+  width: 803px;
+  height: 165px;
+}
+.welcome-to-the {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.welcome-to-the-container {
+  position: absolute;
+  top: 257px;
+  left: 224px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+  display: inline-block;
+  width: 830px;
+  height: 148px;
+}
+.indian-civil-law {
+  margin: 0;
+}
+.as-defined-by-container,
+.step-into-a-container {
+  position: absolute;
+  top: 324px;
+  left: 224px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+  display: inline-block;
+  width: 830px;
+  height: 170px;
+}
+.as-defined-by-container {
+  top: 545px;
+  width: 841px;
+  height: 184px;
+}
+.civil-law {
+  color: inherit;
+}
+.civil-law-as-container {
+  position: absolute;
+  top: 1111px;
+  left: 227px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+  color: var(--font-inherit);
+  display: inline-block;
+  width: 849px;
+  height: 177px;
+}
+.meaning-of-civil,
+.origin-of-civil {
+  position: absolute;
+  top: 504px;
+  left: 224px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 322px;
+  height: 36px;
+}
+.origin-of-civil {
+  top: 1050px;
+  width: 310px;
+  height: 42px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 735px;
+  left: 415px;
+  width: 463px;
+  height: 296px;
+  object-fit: cover;
+}
+.rectangle-div,
+.what-is-civil-law-child,
+.what-is-civil-law-child1,
+.what-is-civil-law-inner,
+.what-is-civil-law-item {
+  position: absolute;
+  top: 49px;
+  left: 47px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.rectangle-div,
+.what-is-civil-law-child1,
+.what-is-civil-law-inner,
+.what-is-civil-law-item {
+  left: 238px;
+}
+.rectangle-div,
+.what-is-civil-law-child1,
+.what-is-civil-law-inner {
+  left: 429px;
+}
+.rectangle-div,
+.what-is-civil-law-child1 {
+  top: -90px;
+  left: 286px;
+  width: 199px;
+  height: 150px;
+}
+.what-is-civil-law-child1 {
+  left: 512px;
+}
+.indian-property-law {
+  position: absolute;
+  top: 59px;
+  left: 56px;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 144px;
+  height: 41px;
+}
+.what-is-civil-law-child2,
+.what-is-civil-law-child3,
+.what-is-civil-law-child4,
+.what-is-civil-law-child5,
+.what-is-civil-law-child6,
+.what-is-civil-law-child7 {
+  position: absolute;
+  top: 49px;
+  left: 620px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.what-is-civil-law-child3,
+.what-is-civil-law-child4,
+.what-is-civil-law-child5,
+.what-is-civil-law-child6,
+.what-is-civil-law-child7 {
+  left: 811px;
+}
+.what-is-civil-law-child4,
+.what-is-civil-law-child5,
+.what-is-civil-law-child6,
+.what-is-civil-law-child7 {
+  left: 1002px;
+}
+.what-is-civil-law-child5,
+.what-is-civil-law-child6,
+.what-is-civil-law-child7 {
+  top: -90px;
+  left: 732px;
+  width: 199px;
+  height: 150px;
+}
+.what-is-civil-law-child6,
+.what-is-civil-law-child7 {
+  left: 955px;
+}
+.what-is-civil-law-child7 {
+  left: 1181px;
+}
+.indian-property-law1,
+.transfer-of-property {
+  position: absolute;
+  top: -119px;
+  left: 741px;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 144px;
+  height: 121px;
+}
+.transfer-of-property {
+  top: 63px;
+  left: 249px;
+  width: 155px;
+  height: 91px;
+}
+.consumer-protection-law,
+.partition-act-1893,
+.registration-act-1908,
+.the-drugs-and,
+.the-prevention-of {
+  position: absolute;
+  top: 63px;
+  left: 454px;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 132px;
+  height: 87px;
+}
+.consumer-protection-law,
+.partition-act-1893,
+.the-drugs-and,
+.the-prevention-of {
+  top: 65px;
+  left: 628px;
+  width: 154px;
+  height: 192px;
+}
+.consumer-protection-law,
+.the-drugs-and,
+.the-prevention-of {
+  left: 832px;
+  width: 135px;
+  height: 92px;
+}
+.the-drugs-and,
+.the-prevention-of {
+  top: 58px;
+  left: 1013px;
+  width: 158px;
+  height: 134px;
+}
+.the-prevention-of {
+  top: 60px;
+  left: 1203px;
+  font-size: 12px;
+  width: 155px;
+  height: 87px;
+}
+.what-is-civil-law-child8 {
+  position: absolute;
+  top: 49px;
+  left: 1192px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.relating-to-the {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+  font-family: var(--font-abril-fatface);
+}
+.restore-citizens-rights-in-ca {
+  margin-bottom: 0;
+}
+.protect-citizens-rights-from {
+  margin: 0;
+  padding-left: var(--padding-2xl);
+}
+.civil-laws-are-container,
+.civil-liability-one-container,
+.the-following-are-container {
+  position: absolute;
+  top: 1300px;
+  left: 231px;
+  font-size: var(--font-inherit);
+  display: inline-block;
+  width: 849px;
+  height: 274px;
+  font-family: var(--font-microsoft-sans-serif);
+}
+.civil-laws-are-container,
+.civil-liability-one-container {
+  top: 1761px;
+  left: 229px;
+  font-size: var(--font-size-base);
+  width: 856px;
+  height: 374px;
+}
+.civil-laws-are-container {
+  top: 1573px;
+  left: 227px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  width: 857px;
+  height: 207px;
+}
+.constitution-of-india {
+  text-decoration: underline;
+}
+.constitution-of-india-1949 {
+  color: var(--font-inherit);
+}
+.civil-laws-are-container1 {
+  position: absolute;
+  top: 2015px;
+  left: 229px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+  color: var(--font-inherit);
+  display: inline-block;
+  width: 868px;
+  height: 129px;
+}
+.conclusion,
+.features-of-civil {
+  position: absolute;
+  top: 1278px;
+  left: 231px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 322px;
+  height: 32px;
+}
+.conclusion {
+  top: 1989px;
+  left: 230px;
+  width: 162px;
+  height: 23px;
+}
+.what-is-civil-law {
+  position: absolute;
+  background-color: #fff;
+  border: 30px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 100%;
+  height: 2195px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray);
+  font-family: var(--font-mogra);
+
+}
+.what-is-civil {
+  position: absolute;
+  top: 175px;
+  left: 224px;
+  font-size: 40px;
+  display: inline-block;
+  width: 803px;
+  height: 165px;
+}
+.blank-line {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.relating-to-the {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+  font-family: var(--font-abril-fatface);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+.blank-line {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.article-44 {
+  color: inherit;
+}
+.constitution-of-india {
+  text-decoration: underline;
+}
+.civil-laws-are-the-body-of-rul {
+  margin: 0;
+}
+.civil-laws-are-container {
+  position: relative;
+  font-size: 16px;
+  font-family: var(--font-microsoft-sans-serif);
+  color: inherit;
+  text-align: justify;
+  display: inline-block;
+  width: 868px;
+  height: 129px;
+}
+
+
+:root {
+  /* fonts */
+  --font-microsoft-sans-serif: 'Microsoft Sans Serif';
+  --font-abril-fatface: 'Abril Fatface';
+}
+.restore-citizens-rights-in-ca {
+  margin-bottom: 0px;
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+  --font-inherit: inherit;
+  --font-abril-fatface: "Abril Fatface";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-base: 16px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --color-saddlebrown: #4c1c01;
+  --color-gray: rgba(0, 0, 0, 0.95);
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-2xl: 21px;
+}
+a {
+  color: black; /* Set text color to black */
+  text-decoration: none; /* Remove underlines */
+}

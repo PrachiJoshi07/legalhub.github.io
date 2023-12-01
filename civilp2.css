@@ -1,0 +1,226 @@
+/*civil law page 2 style */
+.indian-property-law {
+  position: absolute;
+  top: 183px;
+  left: 238px;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 0.95);
+  text-align: justify;
+  display: inline-block;
+  width: 803px;
+  height: 64px;
+}
+.the-indian-property {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.the-different-types {
+  margin-bottom: 0;
+}
+.the-different-types-of-propert {
+  margin: 0;
+  padding-left: var(--padding-2xl);
+}
+.blank-line {
+  margin: 0;
+}
+.the-indian-property-container {
+  position: absolute;
+  top: 251px;
+  left: 238px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  text-align: justify;
+  display: inline-block;
+  width: 1043px;
+  height: 156px;
+}
+.movable-property,
+.types-of-property {
+  font-family: var(--font-mplus-1p-bold);
+}
+.movable-property {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.the-indian-property-container1,
+.these-are-laws {
+  font-family: var(--font-microsoft-sans-serif);
+}
+.the-indian-property-container1 {
+  position: absolute;
+  top: 733px;
+  left: 214px;
+  font-size: var(--font-inherit);
+  text-align: left;
+  display: inline-block;
+  width: 1083px;
+  height: 2179px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 437px;
+  left: 432px;
+  width: 486px;
+  height: 255px;
+  object-fit: cover;
+}
+.civil-law-p-2-child,
+.civil-law-p-2-inner,
+.civil-law-p-2-item {
+  position: absolute;
+  top: 79px;
+  left: 59px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.civil-law-p-2-inner,
+.civil-law-p-2-item {
+  left: 250px;
+}
+.civil-law-p-2-inner {
+  left: 441px;
+}
+.indian-property-law1 {
+  position: absolute;
+  top: 89px;
+  left: 68px;
+  display: inline-block;
+  width: 144px;
+  height: 41px;
+}
+.civil-law-p-2-child1,
+.civil-law-p-2-child2,
+.rectangle-div {
+  position: absolute;
+  top: 79px;
+  left: 632px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.civil-law-p-2-child1,
+.civil-law-p-2-child2 {
+  left: 823px;
+}
+.civil-law-p-2-child2 {
+  left: 1014px;
+}
+.partition-act-1893,
+.registration-act-1908,
+.transfer-of-property1 {
+  position: absolute;
+  top: 93px;
+  left: 261px;
+  display: inline-block;
+  width: 155px;
+  height: 91px;
+}
+.partition-act-1893,
+.registration-act-1908 {
+  left: 466px;
+  box-sizing: border-box;
+  width: 100%;
+  display: inline-block;
+  height: 51px;
+  width: 132px;
+  height: 87px;
+  
+}
+.partition-act-1893 {
+  top: 95px;
+  left: 640px;
+  width: 154px;
+  height: 192px;
+  position: absolute; 
+  
+  box-sizing: border-box;
+  
+   
+}
+.consumer-protection-law,
+.the-drugs-and,
+.the-prevention-of {
+  position: absolute;
+  top: 95px;
+  left: 844px;
+  display: inline-block;
+  width: 135px;
+  height: 92px;
+}
+.the-drugs-and,
+.the-prevention-of {
+  top: 88px;
+  left: 1025px;
+  width: 158px;
+  height: 134px;
+}
+.the-prevention-of {
+  top: 90px;
+  left: 1215px;
+  font-size: 12px;
+  width: 155px;
+  height: 87px;
+}
+.civil-law-p-2-child3 {
+  position: absolute;
+  top: 79px;
+  left: 1204px;
+  background-color: var(--color-gainsboro);
+  border: 4px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.civil-law-p-2 {
+  position: relative;
+  background-color: #fff;
+  border: 30px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 100%;
+  height: 2734px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+  --font-mplus-1p-bold: "Mplus 1p Bold";
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-smi: 13px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-saddlebrown: #4c1c01;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-2xl: 21px;
+}
+.body {
+  	margin: 0;
+  	line-height: normal;
+}
+a {
+  color: black; /* Set text color to black */
+  text-decoration: none; /* Remove underlines */
+}

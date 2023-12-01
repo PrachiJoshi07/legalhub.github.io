@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./bookconsultation.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Mogra:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <form
+      id="consultation_form"
+      class="book-consultation"
+      action="./bookconsultation.php"
+      method="post"
+    >
+      <div class="main-background-box"></div>
+      <div class="legal-resources-hub">LEGAL RESOURCES HUB</div>
+
+      <div class="home-glossary-box"></div>
+      <div class="login">login</div>
+      <a class="login" href="userlogin.html">Login</a>
+
+      <div class="about-us">About us</div>
+      <div class="glossary">Glossary</div>
+      <div class="home">Home</div>
+
+      <a class="glossary" href="glossary.html">Glossary</a>
+      <a class="about-us" href="aboutus.html">About us</a>
+      <a class="home" href="index.html">Home</a>
+
+      <input type="hidden" name="lawyer_id" id="lawyer_id" value="" />
+
+      <img class="image-46-icon" alt="" src="./images/hammer.jpeg" />
+
+      <img
+        class="image-box-icon"
+        alt=""
+        src="./images/Rectangle 4book consultation.png"
+      />
+
+      <input
+        class="client-name-box"
+        name="Name"
+        id="client name box 1 "
+        placeholder="Name"
+        type="text"
+      />
+
+      <input
+        class="address-box"
+        name="Enter your adress"
+        id="adrdress box"
+        placeholder="Enter your address"
+        type="text"
+      />
+
+      <input
+        class="legal-domain-box"
+        placeholder="Enter your Domain (eg-criminal,civil,etc)"
+        type="text"
+        name="legal-domain"
+      />
+
+      <input
+        class="short-description-box"
+        placeholder="Write short description of your problem domain"
+        type="text"
+        name="problem-description"
+      />
+
+      <input
+        class="time-box"
+        name="Time"
+        id="Time box"
+        placeholder="Date and Time"
+        type="datetime-local"
+      />
+
+      <input class="day-box" placeholder="Enter Day" name="day" type="text" />
+
+      <div class="date-and-time">Date and Time</div>
+      <div class="day">Day</div>
+      <input
+        class="email-box"
+        name="Email"
+        id="email box"
+        placeholder="Enter your email"
+        type="email"
+      />
+
+      <input
+        class="state-box"
+        name="State"
+        id="state box"
+        placeholder="State"
+        type="text"
+      />
+
+      <input
+        class="city-box"
+        name="City"
+        id="city box"
+        placeholder="City"
+        type="text"
+      />
+
+      <button class="book-consultation-finam-button"></button>
+      <div class="book-consultation1" onclick="submit_form();">
+        Book Consultation
+      </div>
+      <input
+        class="pincode-box"
+        name="pincode"
+        id="pincode box"
+        placeholder="Pincode"
+        type="number"
+      />
+
+      <div class="client-name">Client Name</div>
+      <div class="state">State</div>
+      <div class="pincode">Pincode</div>
+      <div class="city">City</div>
+      <div class="email">Email</div>
+      <div class="address">Address</div>
+      <div class="legal-domain">Legal Domain</div>
+      <div class="short-description-about">
+        Short Description about problem (optional)
+      </div>
+      <div class="note-confirmation-of">
+        Note- confirmation of your appointment is sent to your email in 2 hours.
+      </div>
+    </form>
+  </body>
+</html>
+<script>
+  let url = window.location.href;
+  let params = new URL(url).searchParams;
+  let lawyer_id = params.get("id");
+  document.getElementById("lawyer_id").value = lawyer_id;
+  function submit_form() {
+    document.getElementById("consultation_form").submit();
+  }
+</script>

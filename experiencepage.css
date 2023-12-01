@@ -1,0 +1,186 @@
+.legal-resources-hub {
+  position: absolute;
+  top: 32px;
+  left: 170px;
+  font-size: 40px;
+  color: #290505;
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.share-your-case-experience-child {
+  position: absolute;
+  top: 26px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: #8b581c;
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 44px;
+  left: 1113px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.home,
+.login {
+  left: 924px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 43px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 10px;
+  left: 78px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.recently-shared-experiences,
+.share-your-case {
+  position: absolute;
+  top: 151px;
+  left: 355px;
+  font-size: var(--font-size-31xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 910px;
+  height: 99px;
+}
+.recently-shared-experiences {
+  top: 805px;
+  left: 433px;
+  width: 792px;
+  height: 62px;
+}
+.case-description-box,
+.case-titele-box,
+.recently-shared-box {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 353px;
+  left: 253px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 1000px;
+  height: 52px;
+}
+.case-description-box,
+.recently-shared-box {
+  top: 466px;
+  height: 257px;
+}
+.recently-shared-box {
+  top: 880px;
+  left: 255px;
+  height: 247px;
+}
+.case-description,
+.case-title {
+  position: absolute;
+  top: 305px;
+  left: 255px;
+  display: inline-block;
+  width: 168px;
+  height: 41px;
+}
+.case-description {
+  top: 413px;
+  width: 277px;
+  height: 36px;
+}
+.post-box,
+.reply-button-box {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 744px;
+  left: 255px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 130px;
+  height: 45px;
+}
+.reply-button-box {
+  top: 1163px;
+}
+.post,
+.reply {
+  position: absolute;
+  top: 746px;
+  left: 287px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 72px;
+  height: 46px;
+}
+.reply {
+  top: 1170px;
+  left: 284px;
+  width: 135px;
+  height: 52px;
+}
+.share-your-case-experience {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  max-height: 150px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
+
+/* Remove underline from specific links */
+.glossary,
+.about-us,
+.home {
+  text-decoration: none;
+}

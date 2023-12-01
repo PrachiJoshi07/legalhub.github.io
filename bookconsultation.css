@@ -1,0 +1,416 @@
+.main-background-box {
+  position: absolute;
+  top: 136px;
+  left: 57px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-saddlebrown);
+  border: 2px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1330px;
+  height: 1271px;
+}
+.legal-resources-hub {
+  position: absolute;
+  top: 32px;
+  left: 170px;
+  font-size: 40px;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.home-glossary-box {
+  position: absolute;
+  top: 26px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: var(--color-saddlebrown);
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.domains,
+.glossary,
+.home {
+  position: absolute;
+  top: 44px;
+  left: 1113px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.glossary,
+.home {
+  left: 924px;
+  height: 51px;
+}
+.glossary,
+.home {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 43px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon,
+.image-box-icon {
+  position: absolute;
+  top: 0;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.image-box-icon {
+  top: 166px;
+  left: 97px;
+  border-radius: var(--br-31xl);
+  width: 329px;
+  height: 1147px;
+}
+.address-box,
+.client-name-box,
+.day-box,
+.legal-domain-box,
+.short-description-box,
+.time-box {
+  border: 2px solid var(--color-white);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 220px;
+  left: 446px;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 903px;
+  height: 64px;
+}
+.address-box,
+.day-box,
+.legal-domain-box,
+.short-description-box,
+.time-box {
+  top: 584px;
+  width: 909px;
+}
+.day-box,
+.legal-domain-box,
+.short-description-box,
+.time-box {
+  top: 851px;
+  width: 455px;
+}
+.day-box,
+.short-description-box,
+.time-box {
+  top: 988px;
+  width: 909px;
+  height: 201px;
+}
+.day-box,
+.time-box {
+  top: 699px;
+  left: 448px;
+  width: 289px;
+  height: 64px;
+}
+.day-box {
+  top: 697px;
+  left: 754px;
+}
+.date-and-time,
+.day {
+  position: absolute;
+  top: 665px;
+  left: 454px;
+  display: inline-block;
+  width: 188px;
+  height: 32px;
+}
+.day {
+  left: 777px;
+}
+.book-consultation-finam-button,
+.city-box,
+.email-box,
+.state-box {
+  border: 2px solid var(--color-white);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 340px;
+  left: 443px;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 903px;
+  height: 64px;
+}
+.book-consultation-finam-button,
+.city-box,
+.state-box {
+  top: 462px;
+  left: 448px;
+  width: 289px;
+}
+.book-consultation-finam-button,
+.city-box {
+  top: 460px;
+  left: 754px;
+}
+.book-consultation-finam-button {
+  cursor: pointer;
+  padding: 0;
+  top: 1227px;
+  left: 448px;
+  width: 338px;
+}
+.book-consultation1 {
+  position: absolute;
+  top: 1245px;
+  left: 505px;
+  font-size: 26px;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 404px;
+  height: 115px;
+}
+.pincode-box {
+  border: 2px solid var(--color-white);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 460px;
+  left: 1060px;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 289px;
+  height: 64px;
+}
+.address,
+.city,
+.client-name,
+.email,
+.pincode,
+.state {
+  position: absolute;
+  top: 173px;
+  left: 454px;
+  display: inline-block;
+  width: 188px;
+  height: 32px;
+}
+.address,
+.city,
+.email,
+.pincode,
+.state {
+  top: 428px;
+}
+.address,
+.city,
+.email,
+.pincode {
+  left: 1079px;
+}
+.address,
+.city,
+.email {
+  left: 777px;
+}
+.address,
+.email {
+  top: 299px;
+  left: 454px;
+  width: 169px;
+  height: 26px;
+}
+.address {
+  top: 543px;
+  width: 155px;
+  height: 22px;
+}
+.legal-domain,
+.note-confirmation-of,
+.short-description-about {
+  position: absolute;
+  top: 799px;
+  left: 456px;
+  display: inline-block;
+  width: 215px;
+  height: 37px;
+}
+.note-confirmation-of,
+.short-description-about {
+  top: 951px;
+  left: 454px;
+  width: 625px;
+}
+.note-confirmation-of {
+  top: 1327px;
+  left: 446px;
+  font-size: 18px;
+  width: 1134px;
+  height: 131px;
+}
+.book-consultation {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1441px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #290505;
+  --color-saddlebrown: #8b581c;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+}
+input::placeholder {
+  font-size: 20px; /* Change the font size to 15 pixels */
+}
+input::placeholder {
+  text-align:top; /* leftthe placeholder text horizontally */
+  padding: 10px 5px; /* Adjust padding to change the vertical position */
+}
+input[type="text"] {
+  font-family: Arial, sans-serif; /* Change the font family */
+  font-size: 24px; /* Change the font size */
+  color: #333; /* Change the text color */
+  /* Add more text-related styles as needed */
+}
+input[type="Number"]{
+    font-size: 24px;
+
+}
+input[type="email"]{
+    font-size: 24px;
+
+}
+
+
+.legal-resources-hub {
+  margin: 0;
+  position: absolute;
+  top: 36px;
+  left: 170px;
+  font-size: 40px;
+  font-weight: 400;
+  font-family: inherit;
+  color: #290505;
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.header-box {
+  position: absolute;
+  top: 30px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: #8b581c;
+  width: 723px;
+  height: 69px;
+}
+.glossary {
+  text-decoration: none;
+  left: 1113px;
+  color: inherit;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 48px;
+  display: inline-block;
+}
+.about-us {
+  text-decoration: none;
+  left: 924px;
+  color: inherit;
+  width: 136px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  text-decoration: none;
+  top: 47px;
+  left: 786px;
+  color: inherit;
+  width: 85px;
+  height: 28px;
+}
+.the-competition-amendment,
+.the-constitution-scheduled,
+.the-indian-institutes {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+}
+.the-competition-amendment {
+  top: 2614px;
+  left: 1071px;
+  width: 232px;
+  height: 46px;
+}
+.the-constitution-scheduled,
+.the-indian-institutes {
+  top: 2752px;
+  left: 1057px;
+  width: 258px;
+}
+.the-indian-institutes {
+  top: 2904px;
+  left: 1059px;
+  width: 253px;
+}
+.law-hammer-image {
+  position: absolute;
+  top: 4px;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.header {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 202px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-mogra);
+}

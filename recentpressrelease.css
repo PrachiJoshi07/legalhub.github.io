@@ -1,0 +1,973 @@
+.legal-resources-hub {
+  position: absolute;
+  top: 32px;
+  left: 170px;
+  font-size: 40px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.recent-pres-release-child {
+  position: absolute;
+  top: 26px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: var(--color-saddlebrown);
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 44px;
+  left: 1113px;
+  font-size: var(--font-size-11xl);
+  text-align: left;
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.home,
+.login {
+  left: 924px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 43px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 0;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.recent-pres-release-item {
+  position: absolute;
+  top: 168px;
+  left: 73px;
+  background-color: var(--color-saddlebrown);
+  width: 1311px;
+  height: 2694px;
+}
+.recent-pres-release-child1,
+.recent-pres-release-child2,
+.recent-pres-release-inner,
+.rectangle-div {
+  position: absolute;
+  top: 2691px;
+  left: 104px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child1,
+.recent-pres-release-child2,
+.rectangle-div {
+  left: 1049px;
+}
+.recent-pres-release-child1,
+.recent-pres-release-child2 {
+  left: 419px;
+}
+.recent-pres-release-child2 {
+  left: 734px;
+}
+.the-limited-liability,
+.the-taxation-laws {
+  position: absolute;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.the-taxation-laws {
+  top: 2726px;
+  left: calc(50% - 623px);
+  width: 310px;
+  height: 119px;
+}
+.the-limited-liability {
+  top: 2728px;
+  left: 418px;
+  width: 295px;
+  height: 60px;
+}
+.the {
+  color: inherit;
+}
+.the-general-insurance,
+.the-the-tribunals-container {
+  position: absolute;
+  top: 2714px;
+  left: 750px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 261px;
+  height: 89px;
+}
+.the-general-insurance {
+  left: 1081px;
+  width: 232px;
+  height: 57px;
+}
+.recent-press-release {
+  position: absolute;
+  top: 232px;
+  left: 429px;
+  font-size: 55px;
+  text-align: left;
+  display: inline-block;
+  width: 761px;
+  height: 145px;
+}
+.stay-informed-about {
+  position: absolute;
+  top: 321px;
+  left: 251px;
+  font-family: var(--font-outfit);
+  display: inline-block;
+  width: 926px;
+  height: 167px;
+}
+.recent-pres-release-child3,
+.recent-pres-release-child4,
+.recent-pres-release-child5,
+.recent-pres-release-child6,
+.recent-pres-release-child7,
+.recent-pres-release-child8 {
+  position: absolute;
+  top: 435px;
+  left: 104px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child4,
+.recent-pres-release-child5,
+.recent-pres-release-child6,
+.recent-pres-release-child7,
+.recent-pres-release-child8 {
+  left: 1049px;
+}
+.recent-pres-release-child5,
+.recent-pres-release-child6,
+.recent-pres-release-child7,
+.recent-pres-release-child8 {
+  left: 419px;
+}
+.recent-pres-release-child6,
+.recent-pres-release-child7,
+.recent-pres-release-child8 {
+  left: 734px;
+}
+.recent-pres-release-child7,
+.recent-pres-release-child8 {
+  top: 623px;
+  left: 104px;
+}
+.recent-pres-release-child8 {
+  left: 1049px;
+}
+.recent-pres-release-child10,
+.recent-pres-release-child11,
+.recent-pres-release-child12,
+.recent-pres-release-child13,
+.recent-pres-release-child14,
+.recent-pres-release-child9 {
+  position: absolute;
+  top: 623px;
+  left: 419px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child10,
+.recent-pres-release-child11,
+.recent-pres-release-child12,
+.recent-pres-release-child13,
+.recent-pres-release-child14 {
+  left: 734px;
+}
+.recent-pres-release-child11,
+.recent-pres-release-child12,
+.recent-pres-release-child13,
+.recent-pres-release-child14 {
+  top: 811px;
+  left: 104px;
+}
+.recent-pres-release-child12,
+.recent-pres-release-child13,
+.recent-pres-release-child14 {
+  left: 1049px;
+}
+.recent-pres-release-child13,
+.recent-pres-release-child14 {
+  left: 419px;
+}
+.recent-pres-release-child14 {
+  left: 734px;
+}
+.the-biological-diversity,
+.the-forest-conservation {
+  position: absolute;
+  top: 470px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.the-biological-diversity {
+  left: calc(50% - 623px);
+  width: 310px;
+  height: 119px;
+}
+.the-forest-conservation {
+  left: 404px;
+  width: 324px;
+  height: 60px;
+}
+.the-coastal-aquaculture,
+.the-competition-amendment,
+.the-multi-state,
+.the-national-nursing {
+  position: absolute;
+  top: 458px;
+  left: 750px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 261px;
+  height: 89px;
+}
+.the-coastal-aquaculture,
+.the-competition-amendment,
+.the-national-nursing {
+  top: 473px;
+  left: 1081px;
+  width: 232px;
+  height: 57px;
+}
+.the-coastal-aquaculture,
+.the-national-nursing {
+  top: 650px;
+  left: 122px;
+  width: 268px;
+  height: 90px;
+}
+.the-national-nursing {
+  top: 644px;
+  left: 442px;
+  width: 246px;
+}
+.the-anusandhan-national {
+  top: 644px;
+  left: 756px;
+  color: inherit;
+  width: 252px;
+  height: 90px;
+}
+.the-anusandhan-national,
+.the-constitution-scheduled,
+.the-jan-vishwas {
+  position: absolute;
+  text-decoration: underline;
+  display: inline-block;
+}
+.the-constitution-scheduled {
+  top: 644px;
+  left: 1067px;
+  color: inherit;
+  width: 258px;
+  height: 90px;
+}
+.the-jan-vishwas {
+  top: 833px;
+  left: 122px;
+  width: 252px;
+  height: 89px;
+}
+.the-digital-personal,
+.the-indian-institutes,
+.the-registration-of {
+  position: absolute;
+  top: 848px;
+  left: 430px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 269px;
+  height: 59px;
+}
+.the-indian-institutes,
+.the-registration-of {
+  top: 838px;
+  left: 740px;
+  color: inherit;
+  width: 283px;
+  height: 89px;
+}
+.the-indian-institutes {
+  top: 833px;
+  left: 1069px;
+  width: 253px;
+}
+.recent-pres-release-child15,
+.recent-pres-release-child16,
+.recent-pres-release-child17,
+.recent-pres-release-child18,
+.recent-pres-release-child19,
+.recent-pres-release-child20 {
+  position: absolute;
+  top: 999px;
+  left: 104px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child16,
+.recent-pres-release-child17,
+.recent-pres-release-child18,
+.recent-pres-release-child19,
+.recent-pres-release-child20 {
+  left: 1049px;
+}
+.recent-pres-release-child17,
+.recent-pres-release-child18,
+.recent-pres-release-child19,
+.recent-pres-release-child20 {
+  left: 419px;
+}
+.recent-pres-release-child18,
+.recent-pres-release-child19,
+.recent-pres-release-child20 {
+  left: 734px;
+}
+.recent-pres-release-child19,
+.recent-pres-release-child20 {
+  top: 1187px;
+  left: 104px;
+}
+.recent-pres-release-child20 {
+  left: 1049px;
+}
+.recent-pres-release-child21,
+.recent-pres-release-child22,
+.recent-pres-release-child23,
+.recent-pres-release-child24,
+.recent-pres-release-child25,
+.recent-pres-release-child26 {
+  position: absolute;
+  top: 1187px;
+  left: 419px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child22,
+.recent-pres-release-child23,
+.recent-pres-release-child24,
+.recent-pres-release-child25,
+.recent-pres-release-child26 {
+  left: 734px;
+}
+.recent-pres-release-child23,
+.recent-pres-release-child24,
+.recent-pres-release-child25,
+.recent-pres-release-child26 {
+  top: 1375px;
+  left: 104px;
+}
+.recent-pres-release-child24,
+.recent-pres-release-child25,
+.recent-pres-release-child26 {
+  left: 1049px;
+}
+.recent-pres-release-child25,
+.recent-pres-release-child26 {
+  left: 419px;
+}
+.recent-pres-release-child26 {
+  left: 734px;
+}
+.the-cinematograph-amendment,
+.the-mines-and,
+.the-offshore-areas {
+  position: absolute;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.the-cinematograph-amendment {
+  top: 1034px;
+  left: calc(50% - 623px);
+  width: 310px;
+  height: 119px;
+}
+.the-mines-and,
+.the-offshore-areas {
+  top: 1022px;
+  left: 430px;
+  width: 266px;
+  height: 77px;
+}
+.the-offshore-areas {
+  left: 750px;
+  width: 261px;
+  height: 89px;
+}
+.the-energy-conservation,
+.the-government-of,
+.the-maritime-anti,
+.the-new-delhi,
+.the-wild-life {
+  position: absolute;
+  top: 1018px;
+  left: 1082px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 232px;
+  height: 57px;
+}
+.the-energy-conservation,
+.the-maritime-anti,
+.the-new-delhi,
+.the-wild-life {
+  top: 1214px;
+  left: 122px;
+  width: 268px;
+  height: 90px;
+}
+.the-energy-conservation,
+.the-new-delhi,
+.the-wild-life {
+  top: 1208px;
+  left: 442px;
+  width: 246px;
+}
+.the-energy-conservation,
+.the-wild-life {
+  left: 756px;
+  width: 252px;
+}
+.the-wild-life {
+  left: 1067px;
+  width: 258px;
+}
+.the-central-universities,
+.the-constitution-scheduled1,
+.the-criminal-procedure,
+.the-delhi-municipal {
+  position: absolute;
+  top: 1397px;
+  left: 122px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 252px;
+  height: 89px;
+}
+.the-central-universities,
+.the-criminal-procedure,
+.the-delhi-municipal {
+  top: 1412px;
+  left: 430px;
+  width: 269px;
+  height: 59px;
+}
+.the-criminal-procedure,
+.the-delhi-municipal {
+  top: 1402px;
+  left: 740px;
+  width: 283px;
+  height: 89px;
+}
+.the-criminal-procedure {
+  top: 1397px;
+  left: 1069px;
+  width: 253px;
+}
+.recent-pres-release-child27,
+.recent-pres-release-child28,
+.recent-pres-release-child29,
+.recent-pres-release-child30,
+.recent-pres-release-child31,
+.recent-pres-release-child32 {
+  position: absolute;
+  top: 1563px;
+  left: 104px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child28,
+.recent-pres-release-child29,
+.recent-pres-release-child30,
+.recent-pres-release-child31,
+.recent-pres-release-child32 {
+  left: 1049px;
+}
+.recent-pres-release-child29,
+.recent-pres-release-child30,
+.recent-pres-release-child31,
+.recent-pres-release-child32 {
+  left: 419px;
+}
+.recent-pres-release-child30,
+.recent-pres-release-child31,
+.recent-pres-release-child32 {
+  left: 734px;
+}
+.recent-pres-release-child31,
+.recent-pres-release-child32 {
+  top: 1751px;
+  left: 104px;
+}
+.recent-pres-release-child32 {
+  left: 1049px;
+}
+.recent-pres-release-child33,
+.recent-pres-release-child34,
+.recent-pres-release-child35,
+.recent-pres-release-child36,
+.recent-pres-release-child37,
+.recent-pres-release-child38 {
+  position: absolute;
+  top: 1751px;
+  left: 419px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child34,
+.recent-pres-release-child35,
+.recent-pres-release-child36,
+.recent-pres-release-child37,
+.recent-pres-release-child38 {
+  left: 734px;
+}
+.recent-pres-release-child35,
+.recent-pres-release-child36,
+.recent-pres-release-child37,
+.recent-pres-release-child38 {
+  top: 1939px;
+  left: 104px;
+}
+.recent-pres-release-child36,
+.recent-pres-release-child37,
+.recent-pres-release-child38 {
+  left: 1049px;
+}
+.recent-pres-release-child37,
+.recent-pres-release-child38 {
+  left: 419px;
+}
+.recent-pres-release-child38 {
+  left: 734px;
+}
+.the-biological-the-national-an {
+  margin: 0;
+}
+.the-biological-the-container {
+  position: absolute;
+  top: 1602px;
+  left: calc(50% - 623px);
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 310px;
+  height: 119px;
+}
+.the-competition-act-container,
+.the-family-courts,
+.the-indian-antarctic {
+  position: absolute;
+  top: 1603px;
+  left: 426px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 273px;
+  height: 60px;
+}
+.the-competition-act-container,
+.the-family-courts {
+  left: 750px;
+  width: 261px;
+  height: 89px;
+}
+.the-competition-act-container {
+  top: 1607px;
+  left: 1079px;
+  width: 232px;
+  height: 120px;
+}
+.the-assisted-reproductive,
+.the-high-court,
+.the-narcotic-drugs,
+.the-surrogacy-regulation {
+  position: absolute;
+  top: 1778px;
+  left: 122px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 268px;
+  height: 90px;
+}
+.the-assisted-reproductive,
+.the-high-court,
+.the-surrogacy-regulation {
+  top: 1790px;
+  left: 441px;
+  width: 246px;
+}
+.the-assisted-reproductive,
+.the-high-court {
+  top: 1782px;
+  left: 754px;
+  width: 252px;
+}
+.the-high-court {
+  top: 1778px;
+  left: 1069px;
+  width: 258px;
+}
+.the-central-vigilance,
+.the-delhi-special,
+.the-major-port,
+.the-national-institute {
+  position: absolute;
+  top: 1961px;
+  left: 122px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 252px;
+  height: 89px;
+}
+.the-central-vigilance,
+.the-delhi-special,
+.the-major-port {
+  top: 1976px;
+  left: 430px;
+  width: 269px;
+  height: 59px;
+}
+.the-delhi-special,
+.the-major-port {
+  top: 1966px;
+  left: 740px;
+  width: 283px;
+  height: 89px;
+}
+.the-major-port {
+  top: 1961px;
+  left: 1069px;
+  width: 253px;
+}
+.recent-pres-release-child39,
+.recent-pres-release-child40,
+.recent-pres-release-child41,
+.recent-pres-release-child42,
+.recent-pres-release-child43,
+.recent-pres-release-child44 {
+  position: absolute;
+  top: 2127px;
+  left: 104px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child40,
+.recent-pres-release-child41,
+.recent-pres-release-child42,
+.recent-pres-release-child43,
+.recent-pres-release-child44 {
+  left: 1049px;
+}
+.recent-pres-release-child41,
+.recent-pres-release-child42,
+.recent-pres-release-child43,
+.recent-pres-release-child44 {
+  left: 419px;
+}
+.recent-pres-release-child42,
+.recent-pres-release-child43,
+.recent-pres-release-child44 {
+  left: 734px;
+}
+.recent-pres-release-child43,
+.recent-pres-release-child44 {
+  top: 2315px;
+  left: 104px;
+}
+.recent-pres-release-child44 {
+  left: 1049px;
+}
+.recent-pres-release-child45,
+.recent-pres-release-child46,
+.recent-pres-release-child47,
+.recent-pres-release-child48,
+.recent-pres-release-child49,
+.rectangle-106rectangle-48 {
+  position: absolute;
+  top: 2315px;
+  left: 419px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 294px;
+  height: 133px;
+}
+.recent-pres-release-child46,
+.recent-pres-release-child47,
+.recent-pres-release-child48,
+.recent-pres-release-child49,
+.rectangle-106rectangle-48 {
+  left: 734px;
+}
+.recent-pres-release-child47,
+.recent-pres-release-child48,
+.recent-pres-release-child49,
+.rectangle-106rectangle-48 {
+  top: 2503px;
+  left: 104px;
+}
+.recent-pres-release-child48,
+.recent-pres-release-child49,
+.rectangle-106rectangle-48 {
+  left: 1049px;
+}
+.recent-pres-release-child48,
+.recent-pres-release-child49 {
+  left: 419px;
+}
+.recent-pres-release-child49 {
+  left: 734px;
+}
+.the-medical-termination {
+  position: absolute;
+  top: 2162px;
+  left: calc(50% - 623px);
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 310px;
+  height: 119px;
+}
+.the-inland-vessels,
+.the-insolvency-and,
+.the-national-commission {
+  position: absolute;
+  top: 2162px;
+  left: 404px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 324px;
+  height: 60px;
+}
+.the-inland-vessels,
+.the-insolvency-and {
+  top: 2150px;
+  left: 750px;
+  width: 261px;
+  height: 89px;
+}
+.the-inland-vessels {
+  top: 2165px;
+  left: 1081px;
+  width: 232px;
+  height: 57px;
+}
+.the-arbitration-and,
+.the-constitution-scheduled2,
+.the-essential-defence,
+.the-mines-and1,
+.the-national-bank {
+  position: absolute;
+  top: 2342px;
+  left: 122px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 268px;
+  height: 90px;
+}
+.the-arbitration-and,
+.the-constitution-scheduled2,
+.the-mines-and1,
+.the-national-bank {
+  top: 2338px;
+  left: 433px;
+  width: 271px;
+}
+.the-arbitration-and,
+.the-constitution-scheduled2,
+.the-mines-and1 {
+  top: 2336px;
+  left: 756px;
+  width: 252px;
+}
+.the-arbitration-and,
+.the-constitution-scheduled2 {
+  left: 1067px;
+  width: 258px;
+}
+.the-arbitration-and {
+  top: 2525px;
+  left: 122px;
+  width: 252px;
+  height: 89px;
+}
+.the-airports-economic,
+.the-central-universities1,
+.the-constitution-scheduled3 {
+  position: absolute;
+  top: 2540px;
+  left: 430px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 269px;
+  height: 59px;
+}
+.the-airports-economic,
+.the-constitution-scheduled3 {
+  top: 2530px;
+  left: 740px;
+  width: 283px;
+  height: 89px;
+}
+.the-constitution-scheduled3 {
+  top: 2536px;
+  left: 1071px;
+  width: 253px;
+}
+.recent-pres-release-child50 {
+  position: absolute;
+  top: 2917px;
+  left: 0;
+  background-color: var(--color-saddlebrown);
+  border: 3px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 238px;
+  opacity: 0.99;
+}
+.discover-a-rich {
+  position: absolute;
+  top: 3005px;
+  left: 173px;
+  font-family: var(--font-outfit);
+  text-align: justify;
+  display: inline-block;
+  width: 1328px;
+  height: 95px;
+}
+.legal-resources-hub1 {
+  position: absolute;
+  top: 2955px;
+  left: 535px;
+  font-size: 35px;
+  text-align: left;
+  display: inline-block;
+  width: 380px;
+  height: 70px;
+}
+.information67gmailcom,
+.legal-resources-hub2,
+.privacy-policy {
+  position: absolute;
+  top: 3123px;
+  left: 850px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-outfit);
+  text-align: left;
+  display: inline-block;
+  width: 453px;
+  height: 130px;
+}
+.legal-resources-hub2,
+.privacy-policy {
+  left: 348px;
+  width: 214px;
+  height: 44px;
+}
+.privacy-policy {
+  left: 659px;
+  width: 175px;
+  height: 24px;
+}
+.recent-pres-release {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3153px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-outfit: Outfit;
+  --font-mogra: Mogra;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-saddlebrown: #8b581c;
+  --color-gray-100: #290505;
+  --color-gray-200: rgba(255, 255, 255, 0);
+}
+
+
+/* Remove underline from specific links */
+.glossary,
+.about-us,
+.home {
+  text-decoration: none;
+  color: inherit;
+}

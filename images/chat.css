@@ -1,0 +1,164 @@
+.legal-resources-hub {
+    position: absolute;
+    top: 32px;
+    left: 170px;
+    font-size: 40px;
+    color: #290505;
+    display: inline-block;
+    width: 754px;
+    height: 59px;
+}
+.chatting-page-child {
+    position: absolute;
+    top: 26px;
+    left: 717px;
+    border-radius: 115px 0 0 0;
+    background-color: #8b581c;
+    width: 723px;
+    height: 69px;
+}
+.about-us,
+.domains,
+.glossary,
+.home {
+    position: absolute;
+    top: 44px;
+    left: 1113px;
+    display: inline-block;
+    width: 136px;
+    height: 44px;
+}
+.about-us,
+.glossary,
+.home {
+    left: 924px;
+    height: 51px;
+}
+.glossary,
+.home {
+    left: 1284px;
+    width: 141px;
+    height: 26px;
+}
+.home {
+    top: 43px;
+    left: 786px;
+    width: 85px;
+    height: 28px;
+}
+.image-46-icon {
+    position: absolute;
+    top: 0;
+    left: 73px;
+    width: 92px;
+    height: 95px;
+    object-fit: cover;
+}
+.chatting-page-inner,
+.chatting-page-item,
+.rectangle-div {
+    position: absolute;
+    top: 127px;
+    left: 45px;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1343px;
+    height: 879px;
+}
+.chatting-page-inner,
+.rectangle-div {
+    top: 164px;
+    left: 81px;
+    width: 1268px;
+    height: 91px;
+}
+.rectangle-div {
+    top: 905px;
+    height: 71px;
+}
+.ellipse-icon {
+    position: absolute;
+    top: 180px;
+    left: 113px;
+    border-radius: 50%;
+    width: 57px;
+    height: 58px;
+    object-fit: cover;
+}
+.advocate-shubham-borkar {
+    position: absolute;
+    top: 199px;
+    left: 184px;
+    font-size: 25px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 371px;
+    height: 56px;
+}
+.image-3-icon {
+    position: absolute;
+    top: 905px;
+    left: 1268px;
+    width: 86px;
+    height: 78px;
+    object-fit: cover;
+}
+.send-message {
+    position: absolute;
+    top: 921px;
+    left: 125px;
+    font-family: var(--font-microsoft-sans-serif);
+    color: #898989;
+    text-align: justify;
+    display: inline-block;
+    width: 704px;
+    height: 47px;
+}
+.image-47-icon {
+    position: absolute;
+    top: 186px;
+    left: 1284px;
+    width: 48px;
+    height: 47px;
+    object-fit: cover;
+}
+.chatting-page {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-11xl);
+    color: var(--color-white);
+    font-family: var(--font-mogra);
+}
+body {
+    margin: 0;
+    line-height: normal;
+}
+  
+:root {
+    /* fonts */
+    --font-microsoft-sans-serif: "Microsoft Sans Serif";
+    --font-mogra: Mogra;
+  
+    /* font sizes */
+    --font-size-11xl: 30px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+  
+    /* Border radiuses */
+    --br-31xl: 50px;
+}
+
+/* Remove underline from specific links */
+.glossary,
+.about-us,
+.home {
+  text-decoration: none;
+}

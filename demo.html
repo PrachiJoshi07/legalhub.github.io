@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./demo.css" />
+  </head>
+  <body>
+    <div class="user-registration">
+      <input class="user-registration-box-1" name="Username" placeholder="Username" type="text" />
+      <div class="legal-resources-hub">LEGAL RESOURCES HUB</div>
+      <div class="header-box"></div>
+      <div class="glossary">Glossary</div>
+      <div class="about-us">About us</div>
+      <div class="login">Login</div>
+      <div class="home">Home</div>
+      <a class="glossary" href="glossary.html"></a>
+      <a class="about-us" href="aboutus.html"></a>
+      <a class="login" href="userlogin.html"></a>
+      <a class="home" href="index.html"></a>
+      <img class="image-46-icon" alt="" src="./images/hammer.jpeg" />
+      <div class="confirm-passowrd"></div>
+      <div class="email"></div>
+      <div class="create-password"></div>
+      <div class="registor">
+        
+      <input class="user-registration-box-2-email" name="Email" placeholder="Email" type="text" />
+      <input class="user-registration-box-create-p" name="Create Password" placeholder="Create Password" type="password" />
+      <input class="user-registration-box-confirm" name="Confirm Password" placeholder="Confirm Password" type="password" />
+      <button class="user-registration-box-button" onclick="registerUser()">Register</button>
+      <input
+        class="user-registration-box-1"
+        name="Username"
+        placeholder="Username"
+        type="text"
+      />
+
+      <button class="user-registration-box-button"></button>
+      <input
+        class="user-registration-box-2-email"
+        name="Email"
+        placeholder="Email"
+        type="text"
+      />
+
+      <div class="user-registration-form">User registration form</div>
+      <input
+        class="user-registration-box-create-p"
+        name="Create Password"
+        placeholder="Create Password"
+        type="text"
+      />
+      <div id="registration-success" class="popup">
+        Successfully Registered!
+        <a href="userlogin.html">Login Now</a>
+      </div>
+    </div>
+
+    <script>
+      function registerUser() {
+        // You can add your PHP code here to handle user registration and database insertion
+
+        // For this example, we'll just show a success message
+        var popup = document.getElementById("registration-success");
+        if (popup) {
+          popup.style.display = "block";
+        }
+      }
+    </script>
+  </body>
+</html>

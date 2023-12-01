@@ -1,0 +1,197 @@
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #000;
+    text-align: center;
+    z-index: 1000;
+}
+.user-registration-background-b {
+  position: absolute;
+  top: 243px;
+  left: 405px;
+  background-color: var(--color-saddlebrown);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 625px;
+  height: 520px;
+}
+.user-registration-box-confirm {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 579px;
+  left: 536px;
+  width: 357px;
+  height: 47px;
+}
+.legal-resources-hub {
+  position: absolute;
+  top: 49px;
+  left: 170px;
+  font-size: 40px;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.header-box {
+  position: absolute;
+  top: 43px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: var(--color-saddlebrown);
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 61px;
+  left: 1113px;
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.home,
+.login {
+  left: 924px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 60px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 17px;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.user-registration-box-1 {
+  top: 352px;
+  height: 47px;
+}
+.user-registration-box-1,
+.user-registration-box-2-email,
+.user-registration-box-button {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  left: 536px;
+  width: 357px;
+}
+.user-registration-box-button {
+  cursor: pointer;
+  padding: 0;
+  top: 670px;
+  height: 48px;
+}
+.user-registration-box-2-email {
+  top: 428px;
+  height: 47px;
+}
+.user-registration-form {
+  position: absolute;
+  top: 276px;
+  left: 547px;
+  display: inline-block;
+  width: 384px;
+  height: 36px;
+}
+.user-registration-box-create-p {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 503px;
+  left: 536px;
+  width: 357px;
+  height: 48px;
+}
+.confirm-passowrd,
+.create-password,
+.email {
+  position: absolute;
+  top: 595px;
+  left: 554px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-molengo);
+  color: var(--color-black);
+  display: inline-block;
+  width: 167px;
+  height: 14px;
+}
+.create-password,
+.email {
+  top: 439px;
+  width: 105px;
+  height: 15px;
+}
+.create-password {
+  top: 520px;
+  width: 217px;
+  height: 7px;
+}
+.registor1 {
+  margin: 0;
+}
+.registor {
+  position: absolute;
+  top: 676px;
+  left: 637px;
+  font-size: 28px;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 243px;
+  height: 71px;
+}
+.user-registration {
+  position: relative;
+  background-color: var(--color-white);
+  border: 10px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 100%;
+  height: 808px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+  --font-molengo: Molengo;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #290505;
+  --color-black: #000;
+  --color-saddlebrown: #8b581c;
+}

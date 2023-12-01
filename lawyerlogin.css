@@ -1,0 +1,183 @@
+.lawyer-backgroundbox {
+  position: absolute;
+  top: 200px;
+  left: 448px;
+  background-color: var(--color-saddlebrown);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 415px;
+  height: 499px;
+}
+.lawyer-box-login {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 546px;
+  left: 467px;
+  width: 371px;
+  height: 52px;
+}
+.legal-resources-hub {
+  position: absolute;
+  top: 49px;
+  left: 170px;
+  font-size: 40px;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 754px;
+  height: 59px;
+}
+.header-box {
+  position: absolute;
+  top: 43px;
+  left: 717px;
+  border-radius: 115px 0 0 0;
+  background-color: var(--color-saddlebrown);
+  width: 723px;
+  height: 69px;
+}
+.about-us,
+.glossary,
+.home,
+.login {
+  position: absolute;
+  top: 61px;
+  left: 1113px;
+  display: inline-block;
+  width: 136px;
+  height: 44px;
+}
+.about-us,
+.home,
+.login {
+  left: 924px;
+  height: 51px;
+}
+.home,
+.login {
+  left: 1284px;
+  width: 141px;
+  height: 26px;
+}
+.home {
+  top: 60px;
+  left: 786px;
+  width: 85px;
+  height: 28px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 17px;
+  left: 73px;
+  width: 92px;
+  height: 95px;
+  object-fit: cover;
+}
+.lawyer-pass-box-1,
+.lawyer-user-box1 {
+  position: absolute;
+  top: 362px;
+  left: 467px;
+  background-color: var(--color-white);
+  width: 371px;
+  height: 52px;
+}
+.lawyer-pass-box-1 {
+  top: 437px;
+}
+.lawyer-login1,
+.login1 {
+  position: absolute;
+  top: 260px;
+  left: 526px;
+  font-size: var(--font-size-16xl);
+  display: inline-block;
+  width: 258px;
+  height: 39px;
+}
+.login1 {
+  top: 553px;
+  left: 590px;
+  color: var(--color-gray);
+}
+.username {
+  border: 0;
+  font-family: var(--font-molengo);
+  font-size: var(--font-size-lgi);
+  background-color: transparent;
+  top: 371px;
+  left: 476px;
+  color: var(--color-black);
+  text-align: left;
+  width: 362px;
+  height: 43px;
+}
+.dont-have-an,
+.password,
+.registor,
+.username {
+  position: absolute;
+  display: inline-block;
+}
+.password {
+  border: 0;
+  font-family: var(--font-molengo);
+  font-size: var(--font-size-lgi);
+  background-color: transparent;
+  top: 445px;
+  left: 476px;
+  color: var(--color-black);
+  text-align: left;
+  width: 362px;
+  height: 34px;
+}
+.dont-have-an,
+.registor {
+  top: 612px;
+  left: 590px;
+  font-size: var(--font-size-mini);
+  width: 194px;
+  height: 49px;
+}
+.registor {
+  left: 778px;
+  width: 207px;
+  height: 38px;
+}
+.lawyer-login {
+  position: relative;
+  background-color: var(--color-white);
+  border: 10px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 100%;
+  height: 760px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mogra: Mogra;
+  --font-molengo: Molengo;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-lgi: 19px;
+  --font-size-16xl: 35px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #290505;
+  --color-black: #000;
+  --color-saddlebrown: #8b581c;
+}

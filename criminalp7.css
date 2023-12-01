@@ -1,0 +1,267 @@
+.parsi-law-the,
+.riot {
+  position: absolute;
+  text-align: justify;
+  display: inline-block;
+}
+.riot {
+  top: 153px;
+  left: 243px;
+  font-size: var(--font-size-21xl);
+  color: rgba(0, 0, 0, 0.95);
+  width: 1045px;
+  height: 64px;
+}
+.parsi-law-the {
+  top: -356px;
+  left: 80px;
+  font-size: 11px;
+  font-family: var(--font-abril-fatface);
+  width: 1598px;
+  height: 101px;
+}
+.riot-as-a {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.section-146-ipc {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-mplus-1p-bold);
+}
+.objective {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-mogra);
+}
+.blank-line32,
+.fir-first-information-report {
+  font-family: var(--font-mplus-1p-bold);
+  font-size: var(--font-size-xl);
+}
+.blank-line32 {
+  margin-block-start: 0;
+  margin-block-end: 1.4px;
+}
+.fir-first-information-report {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.the-police-then-register-a-fir {
+  margin-bottom: 0;
+}
+.the-process-typically-begins-w {
+  margin: 0;
+  padding-left: var(--padding-2xl);
+}
+.riot-as-a-container {
+  position: absolute;
+  top: 217px;
+  left: 241px;
+  text-align: justify;
+  display: inline-block;
+  width: 1057px;
+  height: 2664px;
+  font-family: var(--font-microsoft-sans-serif);
+}
+.image-1-icon,
+.image-2-icon {
+  position: absolute;
+  top: 777px;
+  left: 283px;
+  width: 882px;
+  height: 396px;
+  object-fit: cover;
+}
+.image-2-icon {
+  top: 2506px;
+  left: 501px;
+  width: 537px;
+  height: 330px;
+}
+.criminal-p-7-child,
+.criminal-p-7-inner,
+.criminal-p-7-item {
+  cursor: pointer;
+  border: 4px solid var(--color-saddlebrown);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 74px;
+  left: 59px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.criminal-p-7-inner,
+.criminal-p-7-item {
+  left: 250px;
+}
+.criminal-p-7-inner {
+  left: 441px;
+}
+.crime-against-person {
+  position: absolute;
+  top: 82px;
+  left: 61px;
+  display: inline-block;
+  width: 168px;
+  height: 41px;
+}
+.criminal-p-7-child1,
+.criminal-p-7-child2,
+.rectangle-button {
+  cursor: pointer;
+  border: 4px solid var(--color-saddlebrown);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 74px;
+  left: 632px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.criminal-p-7-child1,
+.criminal-p-7-child2 {
+  left: 823px;
+}
+.criminal-p-7-child2 {
+  left: 1014px;
+}
+.kidnapping,
+.murder,
+.rape {
+  position: absolute;
+  top: 88px;
+  left: 236px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 155px;
+  height: 91px;
+}
+.kidnapping,
+.murder {
+  left: 466px;
+  width: 132px;
+  height: 87px;
+}
+.kidnapping {
+  top: 90px;
+  left: 640px;
+  width: 154px;
+  height: 192px;
+}
+.crime-against-public {
+  top: 82px;
+  left: 843px;
+  width: 135px;
+  height: 92px;
+}
+.crime-against-public,
+.drug-trafficking,
+.riot1 {
+  position: absolute;
+  display: inline-block;
+}
+.riot1 {
+  top: 88px;
+  left: 1014px;
+  font-size: var(--font-size-lg);
+  width: 158px;
+  height: 134px;
+}
+.drug-trafficking {
+  top: 90px;
+  left: 1215px;
+  width: 155px;
+  height: 87px;
+}
+.criminal-p-7-child3 {
+  cursor: pointer;
+  border: 4px solid var(--color-saddlebrown);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 74px;
+  left: 1204px;
+  box-sizing: border-box;
+  width: 177px;
+  height: 51px;
+}
+.in-addition-to {
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.imprisonment-the-maximum-term {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.the-legal-process {
+  margin: 0;
+}
+.punishment-the-punishment-container {
+  position: absolute;
+  top: 2930px;
+  left: 241px;
+  text-align: justify;
+  display: inline-block;
+  width: 1061px;
+  height: 432px;
+  font-family: var(--font-microsoft-sans-serif);
+}
+.criminal-p-7 {
+  position: relative;
+  background-color: #fff;
+  border: 30px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 100%;
+  height: 3381px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-microsoft-sans-serif: "Microsoft Sans Serif";
+  --font-mplus-1p-bold: "Mplus 1p Bold";
+  --font-mogra: Mogra;
+  --font-abril-fatface: "Abril Fatface";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-saddlebrown: #4c1c01;
+  --color-black: #000;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+
+  /* Paddings */
+  --padding-8xl: 27px;
+  --padding-2xl: 21px;
+}
+
+
+
+/* Target specific links by class and style them */
+a.crime-against-person,
+a.rape,
+a.murder,
+a.kidnapping,
+a.crime-against-public,
+a.riot1,
+a.criminal-p-7-child3 {
+  color: black;         /* Set text color to black */
+  text-decoration: none; /* Remove underlines */
+}
+
